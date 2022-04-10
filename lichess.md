@@ -28,6 +28,14 @@ Es gibt auch Anwendungen für mobile Endgeräte, z.B. für das Handy, oder auch 
 
 Man kann Lichess sofort nutzen, auch wenn man nicht angemeldet ist. Und im Training mit den Trainingsteilnehmern ist es meist nicht unterschiedlich, ob die Teilnehmer angemeldet sind oder nicht. Es ist besser, wenn alle, die Lichess regelmäßig nutzen, sich dort auch anmelden. Erst als angemeldeter Benutzer von Lichess kann man einige der Feature sinnvoll nutzen. Das wichtigste Feature hier ist, dass man Wertungspunkte nur gewinnen kann, wenn man angemeldet ist. Auch eine aktive Teilnahme an Studien geht erst angemeldet.
 
+### Anmeldung<a name="anmeldung"></a>
+
+Wenn man sich schon registriert hatte, dann sollte
+
+* entweder man schon angemeldet sein (siehe ![Angemeldet in Lichess](bilder/angemeldet-lichess.png))
+* oder sich durch Drücken des Buttons "EINLOGGEN" anmelden können.<br/>
+![Einloggen in Lichess](bilder/anmelden-lichess.png)
+
 ### Registrierung<a name="registrierung"></a>
 
 Im Anmelde-Bildschirm gibt es eine Möglichkeit, sich zu registrieren.
