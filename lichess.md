@@ -1,5 +1,6 @@
 # Lichess
 
+* [Installation von Lichess](#installation-von-lichess)
 * [Aufruf von Lichess](#aufruf-von-lichess)
 * [Anmeldung bei Lichess](#anmeldung-bei-lichess)
 	* [Anmeldung](#anmeldung)
@@ -11,6 +12,10 @@
 
 Diese Datei enthält die wichtigsten Begriffe, die während des Workshops genutzt werden. Es wird bewusst darauf verzichtet, schon zu erklären, wie das Training mit der Hilfe von Lichess erfolgt. Dies erfolgt an einer anderen Stelle.
 
+
+## Installation von Lichess
+
+Wir nutzen Lichess immer im Browser (wenn möglich), deshalb ist keine Installation notwendig. Die Lichess-App auf Android (und vermutlich Apple-Geräten) bietet einen ähnlichen Funktionsumfang an. Die Nutzung von Lichess im Browser ist einfacher, und man hat auch alle Feature nur da.
 ## Aufruf von Lichess
 
 Lichess ist eine umfangreiche Anwendung, die über das Internet erreichbar ist. Im Regelfall nutzen Benutzer bei Lichess ihren installierten Browser (Chrome, Firefox, MS Edge, ...). Der Browser sollte relativ aktuell sein, damit auch alle Möglichkeiten von Lichess uneingeschränkt genutzt werden können.
