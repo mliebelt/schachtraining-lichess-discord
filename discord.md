@@ -17,7 +17,7 @@ Discord besteht aus einem Server, der nur von einem Benutzer erstellt wird, und 
 
 ## Installation
 
-Beim Öffnen der Discord-Website (https://discord.com/) wird man direkt darauf hingewiesen, dass es (passend zum Betriebssystem) eine Anwendung gibt, die man herunterladen und installieren kann. Das ist einfacher dann, da mit der Anwendung meist auch gleich die Anmeldung automatisch ist.
+Beim Öffnen der [Discord-Website](https://discord.com/) wird man direkt darauf hingewiesen, dass es (passend zum Betriebssystem) eine Anwendung gibt, die man herunterladen und installieren kann. Das ist einfacher dann, da mit der Anwendung meist auch gleich die Anmeldung automatisch ist. Ansonsten kann man das auch über die Seite [Discord-Download](https://discord.com/download) tun.
 
 ## Aufruf und Anmeldung
 
