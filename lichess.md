@@ -7,6 +7,11 @@
 	* [Registrierung](#registrierung)
 * [Aufbau von Lichess](#aufbau-von-lichess)
 * [Nutzung von Studien](#nutzung-von-studien)
+	* [Studie allgemein](#studie-allgemein)
+	* [Studie für Analysen](#studie-für-analysen)
+	* [Kapitel in Analyse-Studien](#kapitel-in-analyse-studien)
+	* [Studien für Übungen](#studien-für-übungen)
+	* [Studien für Partieanalysen](#studien-für-partieanalysen)
 * [Erstellung und Nutzung eines Teams](#erstellung-und-nutzung-eines-teams)
 * [Nutzung des Simultan](#nutzung-des-simultan)
 * [Nutzung von internen Turnieren](#nutzung-von-internen-turnieren)
@@ -73,6 +78,78 @@ Es gibt einige Grundprinzipien, die hilfreich sind:
 
 ## Nutzung von Studien
 
+Bei der Nutzung von Studien sind einige Aspekte zu beachten, das Folgende ist deshalb als Vorschlag zu verstehen. Wir haben damit gute Erfahrungen gemacht.
+
+* Studien haben maximal 64 Kapitel.
+* 1 Kapitel ist im Regelfall eine Partie / 1 Problemstellung / 1 Thema.
+* Studien können nach Themen verwaltet werden. Wir verwenden z.B.: Schach-AG, Mannschaft, Bauerndiplom, Übungen, Turniere, ...
+* Themen können mehrfach angegeben werden, damit hat man gute Suchmöglichkeiten bei einer großen Studienanzahl.
+* Es gibt bei Studien die Rollen:
+  * Ersteller: nur er kann die Studie anpassen
+  * Mitwirkender: ist gleichberechtigt zum Ersteller, kann (bis auf die Einstellungen) alle Inhalte ändern
+  * Betrachter: hat Leserechte, sieht also alles in der Studie, kann aber nichts verändern
+  * Sonstige: wenn eine Studie nicht geschützt ist, kann jeder die Studie wie ein Betrachter verwenden.
+* Sichtbarkeit von Studien bestimmt, wer auf diese zugreifen kann:
+  * Öffentlich: die Studie ist für alle Verwender von Lichess zugreif- und findbar. Meist nicht gewünscht, aber Voreinstellung
+  * Ungelistet: die Studie kann von außen nicht gefunden werden, jeder mit dem Link zur Studie kann darauf zugreifen (und natürlich Ersteller/Mitwirkender/Betrachter)
+  * Nur mit Einladung: nur Ersteller/Mitwirkender/Betrachter haben Zugriff. Wird bei uns nur in Ausnahmefällen verwendet.
+  * Es kann noch definiert werden:
+    * Kann die Studie kopiert werden?
+    * Wer kann die Computer-Analyse verwenden? Wichtig, wenn man Kindern was beibringen möchte, die finden Stockfish auch wenn man es ihnen nicht zeigt ...
+    * Wer kann die Eröffnungsdatenbank nutzen? Gilt vermutlich auch für die Endspieldatenbank
+    * Wer kann den Chat nutzen?
+  * Die wichtigste Eigenschaft ist, ob der Syn aktiviert ist oder nicht.
+
+Daneben gibt es auch pro Kapitel noch Einstellungen. Kapitel können vom Ersteller oder Mitwirkenden erstellt und verändert werden. Hier die wesentlichen Einstellungen:
+
+* Ausrichtung: weiß / schwarz, d.h. was ist unten (normalerweise weiß) am Brett
+* Analysemodus: Das hat den größten Einfluss auf die Verwendung der Studie:
+  * Normale Analyse: Alle Züge sind sichtbar von Beginn an. Verwendet beim Durchspielen von Partien.
+  * Übe mit dem Computer: Nie verwendet
+  * Nächste Züge ausblenden: Wichtig, wenn man ein Thema durchsprechen möchte. Was ist der nächste Zug, warum, was sind mögliche Kandidaten, ... Nur die bisher gespielten Züge sind fÜr die Betrachter und Sonstige sichtbar, der Ersteller/Mitwirkende sieht immer alle.
+  * Interaktive Übung: Schöne Variante, Schüler können selbständig Übungen (mit Hinweisen) machen.
+
+### Studie allgemein
+
+Damit ich die Studien später wiederfinde habe ich hier ein Namensschema, das darf jeder machen, wie er mag. Bei mir heißen die Studien:
+
+* Eröffnungen für Tiffany
+* BJEM 22
+* Schach-AG Bauerndiplom >= B12
+* Übungen Rochadekids >= 53
+
+Zudem vergebe ich für jede Studie mindestens 2-3 Themen, z.B. Schach-AG, Bauerndiplom für Anfängermaterial für  die Schach-AG; Schach-AG, Läuferdiplom, Übungen für fortgeschrittene Übungen usw. usf.
+
+### Studie für Analysen
+
+Empfohlene Einstellungen sind:
+
+* `Sync aktiviert`: damit alle immer die gleiche Stellung sehen
+* `Computer-Analyse deaktiviert`: damit die Schüler selbst nachdenken müssen
+* `Sichtbarkeit`: meist `ungelistet`, damit man sich die umständliche Einladung sparen kann, trotzdem nur für die Teilnehmer
+* Pro Kapitel: `Nächste Züge ausblenden`, damit die Schüler sich selbst Gedanken machen.
+
+### Kapitel in Analyse-Studien
+
+Ich habe meist folgendes Schema verwendet, um mir die Orientierung zu erleichtern. Das darf aber jeder selbst tun:
+
+* Jedes Thema hat ein Kürzel (RK für RochadeKids) und eine Nummer.
+* Die einzelnen Kapitel haben dann eine Bezeichnung, und eine fortlaufende Nummer.
+
+Beispiele hier sind:
+
+* RK63 Guter Läufer/Schlechter Springer 1
+* 2.2 Wahl Plan: Bessere Stellung 1 (Exzerpt aus Karpov: Stellungsbeurteilung und Plan)
+* T07 Freibauer 1
+* ...
+
+### Studien für Übungen
+
+Hier muss man nur darauf achten, dass alle Übungen durch die Schüler selbständig durchgespielt werden. Der wesentliche Unterschied zu vorher ist, dass `Analysemodus == Interaktive Übung` ist. Zudem ist die Partei, die am Zug ist, und für die der Schüler Züge finden soll, unten. D.h. wenn Schwarz am Zug ist, dann ist als Ausrichtung auch Schwarz gewählt.
+
+### Studien für Partieanalysen
+
+Partien sollen von den Schülern selbständig erfasst und auch analysiert werden. Damit das ohne Störung geht, muss für die gesamte Studie voreingestellt sein, dass unter `Sync aktivieren == Nein` eingestellt ist. Damit können z.B. Spieler nach einem Wettkampf gleichzeitig ihre Partie in derselben Studie erfassen, ohne sich gegenseitig zu stören.
 ## Erstellung und Nutzung eines Teams
 
 * Erstellung
