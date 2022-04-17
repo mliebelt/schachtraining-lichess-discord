@@ -7,7 +7,9 @@
 	* [Registrierung](#registrierung)
 * [Aufbau von Lichess](#aufbau-von-lichess)
 * [Nutzung von Studien](#nutzung-von-studien)
+* [Erstellung und Nutzung eines Teams](#erstellung-und-nutzung-eines-teams)
 * [Nutzung des Simultan](#nutzung-des-simultan)
+* [Nutzung von internen Turnieren](#nutzung-von-internen-turnieren)
 * [Weitere Möglichkeiten für das Training](#weitere-möglichkeiten-für-das-training)
 
 Diese Datei enthält die wichtigsten Begriffe, die während des Workshops genutzt werden. Es wird bewusst darauf verzichtet, schon zu erklären, wie das Training mit der Hilfe von Lichess erfolgt. Dies erfolgt an einer anderen Stelle.
@@ -30,8 +32,7 @@ Dabei muss man sich in der Benutzeroberfläche zuerst einmal zurechtfinden.
 
 Unter den Buttons "SPIELEN" usw. verbergen sich jeweils Untermenüs, die werden in [Lichess Menüs](lichess.md) dargestellt werden.
 
-Wichtig ist das Zahnrad, mit dem alle Einstellungen von Lichess geändert werden können (nach Anmeldung unter dem Benutzer versteckt, nicht angemeldet ganz rechts). Wenn man angemeldet ist, dann bleiben die Einstellungen auch erhalten.
-
+Wichtig ist das Zahnrad, mit dem alle Einstellungen Gallerie
 Wenn im Workshop oder in weiteren Abschnitten erklärt wird, wie man wohin kommt, wird meist folgende Syntax verwendet: `Spielen > Simultanschach` bedeutet dann, dass man im Menü `Spielen` das Untermenü `Simultanschach` aufrufen soll.
 
 Die Menüstruktur ändert sich ein wenig, wenn man nicht angemeldet ist.
@@ -60,8 +61,38 @@ Im folgenden Formular hat man einen Benutzernamen zu wählen, ein Passwort anzug
 
 ## Aufbau von Lichess
 
+Es gibt einige Grundprinzipien, die hilfreich sind:
+
+* Links oben (lichess.org) kommt man immer zur Homepage.
+* Die Einstiege in die folgenden Teile sind:
+  * Studien: `Lernen > Studien`
+  * Simultan: `Spielen > Simultanschach`
+  * Interne Turniere: `Gemeinschaft > Teams > Auswahl des Teams > Turniere links`
+* Damit man interne Turniere spielen kann benötigt man ein Team.
+
 ## Nutzung von Studien
 
+## Erstellung und Nutzung eines Teams
+
+* Erstellung
+  * `Gemeinschaft > Teams > Neues Team`
+  * Ausfüllen des Formulars
+  * Éntweder Beitrittsanfragen manuell prüfen oder Passwort vergeben (um die Teammitglieder zu begrenzen)
+  * Der Ersteller ist  automatisch der Teamleader, und kann andere Teamleader noch bestellen.
+* Beitritt
+  * Beitrittsanfragen prüfen
+    * Mögliche Mitglieder gehen auf die Teamseite.
+    * Button "Tritt dem Team bei"
+    * Anfrage verschicken.
+    * Einer der Teamleiter muss dem zustimmen.
+  * Passwort
+    * Gleicher Ablauf wie oben.
+    * Statt Prüfung durch andere Eingabe des Passworts.
+
+Nach Erstellung des Teams sind die folgenden Varianten (Simultan, Turnier) teamintern erst möglich.
+
 ## Nutzung des Simultan
+
+## Nutzung von internen Turnieren
 
 ## Weitere Möglichkeiten für das Training
