@@ -32,7 +32,8 @@ Dabei muss man sich in der Benutzeroberfläche zuerst einmal zurechtfinden.
 
 Unter den Buttons "SPIELEN" usw. verbergen sich jeweils Untermenüs, die werden in [Lichess Menüs](lichess.md) dargestellt werden.
 
-Wichtig ist das Zahnrad, mit dem alle Einstellungen Gallerie
+Wichtig ist das Zahnrad, mit dem alle Einstellungen vorgenommen werden können. Ist man angemeldet, ist das unter dem Benutzernamen-Menü versteckt, sonst auf oberster Ebene rechts oben.
+
 Wenn im Workshop oder in weiteren Abschnitten erklärt wird, wie man wohin kommt, wird meist folgende Syntax verwendet: `Spielen > Simultanschach` bedeutet dann, dass man im Menü `Spielen` das Untermenü `Simultanschach` aufrufen soll.
 
 Die Menüstruktur ändert sich ein wenig, wenn man nicht angemeldet ist.
@@ -77,7 +78,7 @@ Es gibt einige Grundprinzipien, die hilfreich sind:
 * Erstellung
   * `Gemeinschaft > Teams > Neues Team`
   * Ausfüllen des Formulars
-  * Éntweder Beitrittsanfragen manuell prüfen oder Passwort vergeben (um die Teammitglieder zu begrenzen)
+  * Entweder Beitrittsanfragen manuell prüfen oder Passwort vergeben (um die Teammitglieder zu begrenzen)
   * Der Ersteller ist  automatisch der Teamleader, und kann andere Teamleader noch bestellen.
 * Beitritt
   * Beitrittsanfragen prüfen
