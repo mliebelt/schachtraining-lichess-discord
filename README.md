@@ -9,6 +9,7 @@ Es stehen die folgenden Inhalte zur Verfügung:
 * [Übersicht über den Workshop](ws220618.md) Der beste Einstieg in den Workshop
 * [Alles zu Lichess](lichess.md) (das relevant für den Workshop ist). Eine Art Referenz, die auch unabhängig vom Workshop genutzt werden kann.
 * [Alles zu Discord](discord.md) (das relevant für den Workshop ist). Das Wichtigste zu Discord an einer Stelle.
+* [Training mit Lichess und Discord](training.md) Eine Art Referenz, die von den Trainingskonzepten ausgeht.
 
 ## Konzept
 
