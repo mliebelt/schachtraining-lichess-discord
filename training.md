@@ -14,6 +14,8 @@ Was sind die verschiedenen Elemente?
 Natürlich sollte auch ein Online-Training eine Struktur haben, Abwechslung, einen lernenden und übenden Teil usw., das wird hier nur am Rande erwähnt.
 
 * [Unterricht über Studien](#unterricht-über-studien)
+  * [Erarbeiten des Themas](#erarbeiten-des-themas)
+  * [Durchnehmen des Themas](#durchnehmen-des-themas)
 * [Selbststudium](#selbststudium)
 * [Partieanalysen](#partieanalysen)
 * [Durchsprache der Analysen](#durchsprache-der-analysen)
@@ -23,10 +25,35 @@ Natürlich sollte auch ein Online-Training eine Struktur haben, Abwechslung, ein
 
 ## Unterricht über Studien
 
-Ausgangspunkt: Wir haben ein Thema, und wollen das den Schülern nahebringen.
+**Ausgangspunkt**: Wir haben ein Thema, und wollen das den Schülern nahebringen.
 
-Ziel: Die Schüler sollten am Ende genügend über das Thema verstanden haben, um es dann in der Praxis auch anwenden zu können.
+**Ziel**: Die Schüler sollten am Ende genügend über das Thema verstanden haben, um es dann in der Praxis auch anwenden zu können.
 
+### Erarbeiten des Themas
+
+1. Gibt es schon eine Studie, in die das Thema reinpasst? Es müssen so viele Kapitel noch frei sein (< 64), wie vermutlich benötigt werden.
+2. Wenn nicht, muss erst eine neue Studie erstellt, und entsprechend benannt werden.
+![Studie erstellen für den Unterricht](bilder/studie-erstellen-unterricht.png)
+3. Erstellen eines Kapitels
+![Kapitel erstellen für den Unterricht](bilder/kapitel-erstellen-start.png)
+dann
+![Kapitel erstellen - Details](bilder/kapitel-erstellen-unterricht-details.png)
+  * Sinnvollen Namen vergeben
+  * Variant: Standard
+  * Ausrichtung: Aus welcher Perspektive später zeigen?
+  * Position bestimmen: den richtigen Tab wählen (die Züge kommen dann später)
+  * Analysemodus: Nächste Züge ausblenden
+
+Siehe die Studie [Anfänger: Schäfermatt verteidigen 1](https://lichess.org/study/eSxsNxVy/K4ZcQok3)
+
+### Durchnehmen des Themas
+
+Wenn man nun die Studie durchnehmen möchte, dann hat man oft den folgenden Ablauf (vorausgesetzt, das Erarbeiten ist komplett abgeschlossen):
+
+1. Die Schüler bekommen über Discord den Link zur Studie zur Verfügung gestellt. Man verwendet dazu am besten "URL des aktuellen Kapitels".
+2. Die Schüler sehen die gleiche Studie wie der Lehrer, und das gleiche Kapitel. Trotzdem: Pfeil-Test! Auf der Stellung einen Pfeil ziehen, und fragen, ob sie was sehen. (siehe SYNC-Thema)
+3. Man geht wie sonst im Schachunterricht durch die Züge durch, die Kommentare sind (bei mir) oft Hinweise für den Trainer. Welche Fragen, wann pausieren, was sollen die Schüler selbst herausbekommen.
+4. Ich verwende bei den wichtigen Zügen die Schachnotation (!, !!, ?, ...) sowie die Farben für Züge/Drohungen/Fehler/... Das muss jeder selbst herausbekommen, wo was wie nützlich ist. (siehe Nutzung von Lichess-Annotationen)
 ## Selbststudium
 
 Ausgangspunkt: Die Schüler haben ein Thema vorgestellt und erklärt bekommen, und sollen nun an Übungen zeigen, dass sie es verstanden haben.
