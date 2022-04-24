@@ -54,6 +54,7 @@ Wenn man nun die Studie durchnehmen möchte, dann hat man oft den folgenden Abla
 2. Die Schüler sehen die gleiche Studie wie der Lehrer, und das gleiche Kapitel. Trotzdem: Pfeil-Test! Auf der Stellung einen Pfeil ziehen, und fragen, ob sie was sehen. (siehe SYNC-Thema)
 3. Man geht wie sonst im Schachunterricht durch die Züge durch, die Kommentare sind (bei mir) oft Hinweise für den Trainer. Welche Fragen, wann pausieren, was sollen die Schüler selbst herausbekommen.
 4. Ich verwende bei den wichtigen Zügen die Schachnotation (!, !!, ?, ...) sowie die Farben für Züge/Drohungen/Fehler/... Das muss jeder selbst herausbekommen, wo was wie nützlich ist. (siehe Nutzung von Lichess-Annotationen)
+
 ## Selbststudium
 
 Ausgangspunkt: Die Schüler haben ein Thema vorgestellt und erklärt bekommen, und sollen nun an Übungen zeigen, dass sie es verstanden haben.

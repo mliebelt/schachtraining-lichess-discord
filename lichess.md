@@ -3,15 +3,15 @@
 * [Installation von Lichess](#installation-von-lichess)
 * [Aufruf von Lichess](#aufruf-von-lichess)
 * [Anmeldung bei Lichess](#anmeldung-bei-lichess)
-	* [Anmeldung](#anmeldung)
-	* [Registrierung](#registrierung)
+  * [Anmeldung](#anmeldung)
+  * [Registrierung](#registrierung)
 * [Aufbau von Lichess](#aufbau-von-lichess)
 * [Nutzung von Studien](#nutzung-von-studien)
-	* [Studie allgemein](#studie-allgemein)
-	* [Studie für Analysen](#studie-für-analysen)
-	* [Kapitel in Analyse-Studien](#kapitel-in-analyse-studien)
-	* [Studien für Übungen](#studien-für-übungen)
-	* [Studien für Partieanalysen](#studien-für-partieanalysen)
+  * [Studie allgemein](#studie-allgemein)
+  * [Studie für Analysen](#studie-für-analysen)
+  * [Kapitel in Analyse-Studien](#kapitel-in-analyse-studien)
+  * [Studien für Übungen](#studien-für-übungen)
+  * [Studien für Partieanalysen](#studien-für-partieanalysen)
 * [Erstellung und Nutzung eines Teams](#erstellung-und-nutzung-eines-teams)
 * [Nutzung des Simultan](#nutzung-des-simultan)
 * [Nutzung von internen Turnieren](#nutzung-von-internen-turnieren)
@@ -150,6 +150,7 @@ Hier muss man nur darauf achten, dass alle Übungen durch die Schüler selbstän
 ### Studien für Partieanalysen
 
 Partien sollen von den Schülern selbständig erfasst und auch analysiert werden. Damit das ohne Störung geht, muss für die gesamte Studie voreingestellt sein, dass unter `Sync aktivieren == Nein` eingestellt ist. Damit können z.B. Spieler nach einem Wettkampf gleichzeitig ihre Partie in derselben Studie erfassen, ohne sich gegenseitig zu stören.
+
 ## Erstellung und Nutzung eines Teams
 
 * Erstellung
@@ -167,10 +168,58 @@ Partien sollen von den Schülern selbständig erfasst und auch analysiert werden
     * Gleicher Ablauf wie oben.
     * Statt Prüfung durch andere Eingabe des Passworts.
 
-Nach Erstellung des Teams sind die folgenden Varianten (Simultan, Turnier) teamintern erst möglich.
+Nach Erstellung des Teams sind die folgenden Varianten (Simultan, Turnier) teamintern erst möglich. Wichtig ist auch, dass die Schüler zum Team eingeladen werden, damit sie dort drin sind. Der Trainer kann nicht das Team selbst bestimmen, d.h. die Schüler müssen sich vorher bewerben, um dann aufgenommen werden zu können.
+
+Damit wir zusammen üben können, habe ich mal das [Team ws220618](https://lichess.org/team/ws220618) erstellt, den Code dazu bekommt man auf Anfrage von Markus Liebelt.
 
 ## Nutzung des Simultan
 
+Nachdem wir nun ein Team zur Verfügung haben, können wir auch ein Simultan nur für das Team erstellen. Das geht so:
+
+* `Spielen > Simultanschach` aufrufen.
+* Dort der Button `Ein Simultan veranstalten`.
+* Einen passenden Namen wählen.
+* Entscheiden, welche Varianten genutzt werden können. Üblich ist nur `Standard`.
+* Man gibt die Grundbedenkzeit vor (für Simultanspieler und die Teilnehmer).
+* Der Simultanspieler kann noch mehr Bedenkzeit fix dazubekommen.
+* **Wichtig** Bei dem Dropdown `Nur Teammitglieder` das entsprechende Team auswählen.
+* Als Anfangsposition kann ein FEN vorgegeben werden (der z.B. mit dem Bretteditor erstellt wird).
+* Die Startzeit vorgeben.
+* Die definierten Einstellungen mit `Ein Simultan veranstalten` abschicken.
+
+Als Ergebnis bekommt man ein Simultan, die URL kann dann verwendet werden, um andere einzuladen. Man kann das Simultan auch auf der Teamseite finden.
+
+![Simultan auf der Teamseite](bilder/team-simultan.png)
+
 ## Nutzung von internen Turnieren
 
+Es gibt verschiedene Möglichkeiten, interne Turniere zu veranstalten, hier die verschiedenen Möglichkeiten:
+
+* Ausgehend von der Teamseite
+  * `Team-Turnier`: Ein Arenaturnier, bei dem nur Teammitglieder mitmachen dürfen. Das Turnier läuft eine bestimmte Zeit, und wenn man eine Partie beendet hat, kann man sofort die nächste starten.
+    * Einstellungen: Name, Variante, Bedenkzeit + Inkrement, Dauer, Startzeit, optional Anfangsposition (Thementurnier)
+  * `Turnier nach Schweizer System`: Alle spielen in Runden, und warten nach dem Ende ihrer Partie, bis die nächste Runde startet.
+    * Einstellungen: Name, Anzahl der Runden, gewertet/ungewertet, Variante, Bedenkzeit, Anfangsposition, Zeit zwischen Runden, Turnier-Startzeit, und einige weitere Parameter.
+* Ausgehend von der Seite `Spielen > Arena-Turniere`
+  * Button `Neues Turnier erstellen`
+  * Parameter wie oben, über `Erweiterte Einstellungen` kann man auswählen, dass `Nur Teammitglieder` (unter Auswahl des Teams) teilnehmen können.
+  * Die restlichen Einstellungen sind meines Wissens die gleichen, und zu verstehen.
+* Ausgehend von der Seite `Spielen > Turniere nach Schweizer System`
+  * Wichtig: Turnier nach Schweizer System können nur für Teams erstellt werden, sie sind nicht offen.
+  * Man sieht hier also nur Turniere, die bereits (von anderen) erstellt wurden, und in deren Teams man ist.
+
 ## Weitere Möglichkeiten für das Training
+
+Lichess bietet noch viele weitere Möglichkeiten, wir haben im Online-Training von den folgenden Optionen schon Gebrauch gemacht:
+
+* `Aufgaben > Aufgaben`: Aufgaben können von den Schülern eigenständig und ohne Trainer durchgenommen werden. Dabei kann der Schüler sogar die Aufgabenthemen vorgeben, um bestimmte Themen zu üben.
+* `Aufgaben > Aufgabenübersicht`: Hier kann der Schüler sehen, in welchen Bereichen er sich verbessern kann.
+* `Aufgaben > Puzzle Streak`: Löse schwieriger werdende Aufgaben und baue eine Erfolgsserie auf. Es gibt keine Uhr, also nimm dir Zeit.
+* `Aufgaben > Puzzle Storm`: Aufgaben nach Geschwindigkeit lösen.
+* `Aufgaben > Puzzle Racer`: Das funktioniert online sehr gut, und es gibt auch die Variante, das nur unter den Schülern zu spielen. Ein Puzzle-Racer wird erstellt, der Link geshared, man wartet auf die Teilnehmer, und startet dann das Rennen. Jeder löst dieselben Aufgaben, bei einer gültigen Lösung fährt das Auto wieder ein Stück.
+* `Lernen > Grundlagen`: Der Schüler kann eigenständig vordefinierte Themen durchnehmen. Es handelt sich dabei um öffentliche Studien, zum Selbstlernen. Siehe [dieses Kapitel](#studien-für-übungen), wie man das selbst erstellen kann.
+* `Lernen > Trainieren`: Schachmatt-Übungen, Standard-Taktiken, Bauern- und Turmendspiele. Sehr gut zum Selbstudium geeignet, aber weniger fúr den Unterricht.
+* `Lernen > Koordinaten`: Das haben wir im Unterricht vor Ort schon gezeigt, mit Beamer und Leinwand. Das trainiert die Erkennung der Felder.
+* `Lernen > Studien`: Siehe die anderen Kapitel.
+
+Der Puzzle-Racer funktioniert am Besten, einige andere Möglichkeiten hatten wir versucht, aber auch wieder verworfen.
