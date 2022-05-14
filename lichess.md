@@ -218,7 +218,7 @@ Lichess bietet noch viele weitere Möglichkeiten, wir haben im Online-Training v
 * `Aufgaben > Puzzle Storm`: Aufgaben nach Geschwindigkeit lösen.
 * `Aufgaben > Puzzle Racer`: Das funktioniert online sehr gut, und es gibt auch die Variante, das nur unter den Schülern zu spielen. Ein Puzzle-Racer wird erstellt, der Link geshared, man wartet auf die Teilnehmer, und startet dann das Rennen. Jeder löst dieselben Aufgaben, bei einer gültigen Lösung fährt das Auto wieder ein Stück.
 * `Lernen > Grundlagen`: Der Schüler kann eigenständig vordefinierte Themen durchnehmen. Es handelt sich dabei um öffentliche Studien, zum Selbstlernen. Siehe [dieses Kapitel](#studien-für-übungen), wie man das selbst erstellen kann.
-* `Lernen > Trainieren`: Schachmatt-Übungen, Standard-Taktiken, Bauern- und Turmendspiele. Sehr gut zum Selbstudium geeignet, aber weniger fúr den Unterricht.
+* `Lernen > Trainieren`: Schachmatt-Übungen, Standard-Taktiken, Bauern- und Turmendspiele. Sehr gut zum Selbststudium geeignet, aber weniger fúr den Unterricht.
 * `Lernen > Koordinaten`: Das haben wir im Unterricht vor Ort schon gezeigt, mit Beamer und Leinwand. Das trainiert die Erkennung der Felder.
 * `Lernen > Studien`: Siehe die anderen Kapitel.
 
