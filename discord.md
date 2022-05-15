@@ -97,6 +97,8 @@ Im Sprachkanal kann man sehen, ob Teilnehmer verbunden sind, aktuell sprechen, u
 
 Discord kann auch verwendet werden in ähnlicher Form wie Zoom. Von Zeit zu Zeit verwenden wir im Jugendtraining auch die Möglichkeit, den Bildschirm zu übertragen. Daneben ist es für die Kinder und Jugendlichen ab und an auch nett, wenn sie ihre Kamera anschalten, so dass andere sie sehen können.
 
+Hier sieht man, wie es aussieht, wenn man die Kamera angeschaltet hat.
+
 ![Discord mit Kameraübertragung](bilder/discord-kamera-aktiv.png)
 
 Wenn man den Bildschirm überträgt, funktioniert das so ähnlich.
