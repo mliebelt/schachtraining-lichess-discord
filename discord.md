@@ -87,7 +87,34 @@ Jeder Teilnehmer eines Sprachkanals kann die individuelle Lautstärke jedes einz
 
 Neuerdings hat auch der Sprachkanal einen Chat, den haben wir noch nie verwendet. Evtl. wäre der für individuelle Trainingssessions eher geeignet.
 
+Im Sprachkanal kann man sehen, ob Teilnehmer verbunden sind, aktuell sprechen, usw. usf. Hier einige der wichtigsten Merkmale:
+
+* Hat ein Teilnehmer sein Mikrofon abgestellt, ist das in der Liste sichtbar. ![Discord Mikrofon aus](bilder/discord-mikro-aus.png)
+* Spricht ein Teilnehmer, dann ist um seinen Namen ein grüner Kreis. ![Discord Mikrofon aktiv](bilder/discord-mikro-aktiv.png)
+* Hat ein Teilnehmer auch die Ausgabe deaktiviert, dann hört er nichts mehr. ![Discord Mikrofon und Lautsprecher aus](bilder/discord-mikro-lautsprecher-aus.png)
+
 ## Weitere Eigenschaften von Discord
+
+Discord kann auch verwendet werden in ähnlicher Form wie Zoom. Von Zeit zu Zeit verwenden wir im Jugendtraining auch die Möglichkeit, den Bildschirm zu übertragen. Daneben ist es für die Kinder und Jugendlichen ab und an auch nett, wenn sie ihre Kamera anschalten, so dass andere sie sehen können.
+
+![Discord mit Kameraübertragung](bilder/discord-kamera-aktiv.png)
+
+Wenn man den Bildschirm überträgt, funktioniert das so ähnlich.
+
+![Discord mit Bildschirmübertragung](bilder/discord-bildschirm-aktiv.png)
+
+Für einen Teilnehmer sieht das so aus.
+
+
+![Discord Bildschirmübertragung Teilnehmer](bilder/discord-bildschirm-aktiv-teilnehmer.png)
+
+Zum Anschalten muss man nur auf den Live-Knopf drücken, und Anschließend im Dialog bestätigen.
+
+![Discord Bildschirmübertragung Teilnehmer starten](bilder/discord-bildschirm-aktiv-teilnehmer-anschalten.png)
+
+Zum Beenden dann im Livebildschirm "Hörer auflegen" drücken.
+
+![Discord Bildschirmübertragung Teilnehmer beenden](bilder/discord-bildschirm-aktiv-teilnehmer-beenden.png)
 
 ## Anlegen eines Servers
 
