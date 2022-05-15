@@ -24,6 +24,10 @@ Natürlich sollte auch ein Online-Training eine Struktur haben, Abwechslung, ein
   * [Durchführen der Analyse](#durchführen-der-analyse)
 * [Durchsprache der Analysen](#durchsprache-der-analysen)
 * [Turniere der Schüler](#turniere-der-schüler)
+  * [Team-Turnier](#team-turnier)
+    * [Erstellung eines Team-Turniers](#erstellung-eines-team-turniers)
+  * [Turnier nach Schweizer System](#turnier-nach-schweizer-system)
+    * [Erstellung eines Turniers nach Schweizer System](#erstellung-eines-turniers-nach-schweizer-system)
 * [Simultan des Lehrers](#simultan-des-lehrers)
 * [Sonstiges](#sonstiges)
 
@@ -106,25 +110,100 @@ Siehe die Studie [Übungen zum Schäfermatt](https://lichess.org/study/RDKUJ6nv)
 ### Durchführen der Analyse
 
 1. Der Schüler bekommt über Discord den Link zur Studie.
-2. Sollen mehrere Schüler zusammen analysieren, dann schiebt man die Schüler 
+2. Sollen mehrere Schüler zusammen analysieren, dann schiebt man die Schüler in unterschiedliche Räume, oder die Schüler machen dies selbst.
+![Bewegen des Teilnehmers scstetten in den Raum Trainingsraum2](./bilder/teilnehmer-bewegen.png "Bewegen des Teilnehmers scstetten in den Raum Trainingsraum2")
+3. Die Schüler starten dann selbständig mit der Analyse, und können sich dabei ungestört unterhalten.
+4. Der Lehrer kann von Zeit zu Zeit bei den Schülern im Raum vorbeischauen, und sie bei der Analyse unterstützen.
+
+Wie man mit der Analyse der Schüler weiter umgeht wird im folgenden Kapitel besprochen.
 
 ## Durchsprache der Analysen
 
-Ausgangspunkt: Die Analysen liegen vor.
+**Ausgangspunkt**: Die Analysen liegen vor.
 
-Ziel: In der Durchsprache der Analysen findet man Lücken, nutzt einige der (zusätzlichen) Möglichkeiten von Lichess, und kommt zu tieferen Einsichten.
+**Ziel**: In der Durchsprache der Analysen findet man Lücken, nutzt einige der (zusätzlichen) Möglichkeiten von Lichess, und kommt zu tieferen Einsichten.
+
+Der wesentliche Punkt hier ist, dass man nun von der eigenen Arbeit wechselt in den [Unterricht über Studien](#unterricht-über-studien). Von daher sind folgende Schritte notwendig:
+
+* Die gesamte Studie wird umgestellt von nicht synchronisiert nach synchronisiert (falls die Umstellung notwendig ist).
+* Gegebenenfalls wird erlaubt, Eröffnungsbücher und den Rechner zu verwenden.
+* Die Durchsprache der Analyse durch den Schüler (der durch die Analyse führt) unterscheidet sich sonst nicht vom normalen Training.
 
 ## Turniere der Schüler
 
-Ausgangspunkt: Die Schüler sollen praktisch in Partien Erfahrungen sammeln.
+**Ausgangspunkt**: Die Schüler sollen praktisch in Partien Erfahrungen sammeln.
 
-Ziel: Jeder hat Spaß gehabt und war mehr oder weniger erfolgreich.
+**Ziel**: Jeder hat Spaß gehabt und war mehr oder weniger erfolgreich.
+
+Es stehen bei lichess verschiedenste Turniere zur Verfügung, nicht alle sind im Kontext von Training fÜr eine Gruppe von Schülern geeignet. Hier werden kurz die Turniere vorgestellt, die sich im Trainingskontext gut eignen.
+
+Die meisten Turniere werden im Kontext von Teams durchgeführt. Wir verwenden im Training das [Team ws220618](https://lichess.org/team/ws220618).
+
+* Teamkampf: Hier kann ein gemeinsames Turnier mit anderen Teams durchgeführt werden. Eher ungeeignet, es sei denn, man hat eine sehr große Trainigsgruppe, die man in mehrere Teams splittet.
+* Team-Turnier: Ein Arenaturnier, in dem nur Mitglieder des Teams teilnehmen können. Sehr geeignet.
+* Turnier nach Schweizer System: Ein Rundenturnier. Sehr geeignet.
+
+Voraussetzung für alle Turniere im Team ist, dass die Teilnehmer des Trainings Teammitglieder sind. Siehe dazu [Beitritt zum Team](lichess.md#erstellung-und-nutzung-eines-teams).
+
+### Team-Turnier
+
+Arenatruniere sind Turniere, bei denen jeder Teilnehmer jederzeit ein- und aussteigen kann. Sobald eine Partie zueende ist, und der Teilnehmer nicht pausiert, wird er sofort wieder ausgelost. Team-Turniere machen erst ab einer Teilnehmerzahl von 6-8 Teilnehmern Sinn, und selbst dann kann es sein, dass einige Teilnehmer einige Zeit warten, dass sie wieder zugelost werden. Bei 15-20 Teilnehmern (und natürlich mehr) geht das aber reibungslos.
+
+#### Erstellung eines Team-Turniers
+
+Die Erstellung ist nur möglich über einen Teamleiter (der im Idealfall auch Trainer des Trainings ist).
+
+1. Besuchen der Teamseite.
+2. Dort Auswahl den Punktes "Team-Turnier" auf der linken Seite.
+3. Festlegen der Parameter
+   * Name des Turniers
+   * Gewertet oder ungewertet
+   * Variante (Default: Standard)
+   * Bedenkzeit: Grund + Inkrement
+   * Dauer in Minuten. Danach ist das Turnier automatisch zu Ende.
+   * Zeit bis zum Start
+   * Anfangsposition: Falls man eine bestimmte Stellung immer wieder durchprobieren möchte.
+4. Drücken des Buttons "Neues Turnier erstellen".
+
+Danach steht das Turnier, und die URL zum Turnier kann z.B. im Chat von Discord geshart werden.
+Die Teilnehmer können dann einfach an dem Turnier teilnehmen.
+
+![Darstellung Arena-Turnier](./bilder/arena-turnier.png)
+
+Nach Klick auf dem Knopf sieht man das offene Arenda-Turnier, mit einem großen Button "Teilnehmen". Zusätzlich bekommt man den Hinweis, dass man nur als Teammitglied teilnehmen kann.
+
+![Hinweis im Arena-Turnier](./bilder/arena-turnier-hinweis.png)
+
+Nach der Anmeldung und vor dem Start sieht es dann so aus:
+
+![Vor dem Start](./bilder/arena-turnier-vor-start.png)
+
+Wenn das Turnier dann läuft werden die Teilnehmer automatisch einander zugelost. Das Turnier endet dann nach der vorbestimmten Zeit.
+
+### Turnier nach Schweizer System
+
+Ein Schweizer Turnier läuft in Runden. Jeder Teilnehmer spielt in einer Runde gegen einen anderen Teilnehmer, der ungefähr die gleiche Anzahl Punkte hat. Eine Runde muss vollständig abgeschlossen sein, bevor die nächste Runde beginnen kann.
+
+#### Erstellung eines Turniers nach Schweizer System
+
+Auch hier müssen bei der Erstellung einige Parameter festgelegt werden. Ablauf:
+
+1. Auf der Teamseite den Knopf "Turniere nach Schweizer System" drücken.
+2. Dann die Parameter eintragen (es werden nur die unterschiedlichen Parameter zum Arena-Turnier beschrieben)
+   * Anzahl der Runden: Das ist die Höchstzahl, bei weniger Teilnehmern werden entsprechend weniger Runden gespielt.
+   * Zeitabstand zwsichen den Runden. Bei automatisch bedingt die Bedenkzeit während der Runde, wie groß die Pause dazwischen mindestens ist.
+   * Turnier-Startzeit: Festlegung des Datums und der Uhrzeit. Das Turnier startet dann automatisch. Vorher müssen die Teilnehmer sich noch anmelden.
+   * Turnierbeitrittscode: Falls man die Teilnahme noch weiter einschränken möchte.
+   * Verbotene Paarungen: Hier können Paarungen eingetragen werden, die nicht gelost werden dürfen.
+3. Danach den Knopf "Neues Turnier erstellen" drücken.
+
+Danach steht das Turnier, und die URL zum Turnier kann z.B. im Chat von Discord geshart werden.
 
 ## Simultan des Lehrers
 
-Ausgangspunkt: Manche Lerninhalte können durch ein Simultan besser geübt werden. Manchmal macht es auch einfach Spaß, mit vielen gleichzeitig gegen einen Besseren zu spielen.
+**Ausgangspunkt**: Manche Lerninhalte können durch ein Simultan besser geübt werden. Manchmal macht es auch einfach Spaß, mit vielen gleichzeitig gegen einen Besseren zu spielen.
 
-Ziel: Im Simultan kann jeder Schüler sehen, ob er das Gelernte umsetzen konnte.
+**Ziel**: Im Simultan kann jeder Schüler sehen, ob er das Gelernte umsetzen konnte.
 
 ## Sonstiges
 
