@@ -29,6 +29,8 @@ Natürlich sollte auch ein Online-Training eine Struktur haben, Abwechslung, ein
   * [Turnier nach Schweizer System](#turnier-nach-schweizer-system)
     * [Erstellung eines Turniers nach Schweizer System](#erstellung-eines-turniers-nach-schweizer-system)
 * [Simultan des Lehrers](#simultan-des-lehrers)
+  * [Erstellung eines Simultan](#erstellung-eines-simultan)
+  * [Teilnahme am Simultan](#teilnahme-am-simultan)
 * [Sonstiges](#sonstiges)
 
 ## Unterricht über Studien
@@ -191,7 +193,7 @@ Auch hier müssen bei der Erstellung einige Parameter festgelegt werden. Ablauf:
 1. Auf der Teamseite den Knopf "Turniere nach Schweizer System" drücken.
 2. Dann die Parameter eintragen (es werden nur die unterschiedlichen Parameter zum Arena-Turnier beschrieben)
    * Anzahl der Runden: Das ist die Höchstzahl, bei weniger Teilnehmern werden entsprechend weniger Runden gespielt.
-   * Zeitabstand zwsichen den Runden. Bei automatisch bedingt die Bedenkzeit während der Runde, wie groß die Pause dazwischen mindestens ist.
+   * Zeitabstand zwischen den Runden. Bei automatisch bedingt die Bedenkzeit während der Runde, wie groß die Pause dazwischen mindestens ist.
    * Turnier-Startzeit: Festlegung des Datums und der Uhrzeit. Das Turnier startet dann automatisch. Vorher müssen die Teilnehmer sich noch anmelden.
    * Turnierbeitrittscode: Falls man die Teilnahme noch weiter einschränken möchte.
    * Verbotene Paarungen: Hier können Paarungen eingetragen werden, die nicht gelost werden dürfen.
@@ -205,6 +207,43 @@ Danach steht das Turnier, und die URL zum Turnier kann z.B. im Chat von Discord 
 
 **Ziel**: Im Simultan kann jeder Schüler sehen, ob er das Gelernte umsetzen konnte.
 
+### Erstellung eines Simultan
+
+Ein Simultan wird immer über die Hauptnavigation erstellt.
+
+1. Hauptmenu > Simultanschach
+2. Dann Button "Ein Simultan veranstalten"
+3. Hier wie bei allen Turnieren die Einstellungen wählen:
+   * Name
+   * Welche Varianten werden angeboten. Es ist möglich, die Schüler selbst wählen zu lassen, welche Varianten sie spielen wollen.
+   * Grundbedenkzeit: Die Zeit, die alle Spieler (auch der Simultanspieler) zur Verfügung haben.
+   * Extra Bedenkzeit: in Minuten
+   * Farbe: weiß/schwarz/zufällig
+   * Nur Teammitglieder: Hier Auswahl des Teams treffen, für die das Simultan durchgeführt werden soll.
+   * Anfangsposition: Wenn das Simultan ab einer bestimmten Postion gespielt werden soll.
+   * Startzeit: Datum und Uhrzeit.
+4. Mit dem Button "Ein Simultan veranstalten" wird das Simultan angelegt.
+
+### Teilnahme am Simultan
+
+Hier der Ablauf:
+
+* Der Link zum Simultan wird mit den Teilnehmern geshart (Discord).
+* Die Teilnehmer können sich dann teils noch die Variante entscheiden, die sie spielen wollen.
+* Sind alle Teilnehmer angemeldet, dann kann der Simultanspieler das Simultan beginnen.
+* Er hat dabei die Möglichkeit, das Brett automatisch zu wechseln, wenn er das möchte.
+* Andere Leute können beim Simultan zuschauen. Hat ein Spieler verloren, dann kann er einfach bei den anderen noch zuschauen.
+* Ist das letzte Spiel im Simultan beendet, ist das Simultan beendet.
+
 ## Sonstiges
 
-Ziel: Welche anderen Möglichkeiten von Lichess können auch im (Online-)Training eingesetzt werden?
+**Ausgangspunkt**: Wie kann man das Training noch abwechslungsreich gestalten?  Welche anderen Möglichkeiten von Lichess können auch im (Online-)Training eingesetzt werden?
+
+**Ziel**: Varianz reinbekommen, Spaß haben, Abwechslung
+
+Hier eine lose Liste der Dinge, die wir auf Lichess während des Trainings immer wieder mal tun:
+
+* `Aufgaben > Aufgabenbereiche`: Hier können die Schüler selbst bestimmte Arten von Aufgaben lösen, und daran merken, ob sie bestimmte Techniken können oder nicht. Der Lehrer hat hier keine Kontrollmöglichkeiten.
+* `Aufgaben > Puzzle Racer > Spiele mit Freunden`: Man stellt ein Rennen ein, bekommt einen Link, den man mit anderen shared. Sobald alle Teilnehmer sich eingetragen haben, wird das Rennen gestartet. Man muss nun um die Wette Aufgaben lösen. Bei jeder korrekten Lösung fährt das Rennauto eine bestimmte Strecke weiter.
+* `Lernen > Koordinaten`: Viele Schüler haben noch Schwierigkeiten, die Koordinaten richtig zu finden. Hier muss man gegen die Uhr auf eine angesagte Koordinate klicken.
+* `Lernen > Trainieren`: Hier kann jeder Schüler im selbstbestimmten Tempo Praktiken üben. Das geht von einfachen Mattaufgaben, über Standard-Taktiken wie Gabel oder Spieß bis zu bestimmten Endspielarten.
