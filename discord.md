@@ -76,7 +76,16 @@ Wenn man einen Server ausgewählt hat, dann wird die Struktur wesentlich durch d
 
 ## Nutzung von Textkanälen
 
+Textkanäle sind, wie der Name sagt, für die Kommunikation per Text. Die Textkanäle strukturieren hier ein wenig, damit die Textnachrichten der Schach-AG nicht durcheinander gehen mit denen des Vereinsabends oder der Vorstandssitzung. Ein Discord-Anwender kann zu einem Zeitpunkt an genau einem Textkanal beteiligt sein. Auf der rechten Seite werden dann die aktuellen Textnachrichten angezeigt.
+
+In Textkanälen werden die Links von Lichess geshart. Die Schüler müssen dies lernen, aber wenn sie das mal verstanden haben, dann wissen sie, dass sie auf die Links klicken müssen, um dann im Browser in Lichess die entsprechende Studie (oder was auch immer) zu sehen.
 ## Nutzung von Sprachkanälen
+
+Man kann als Teilnehmer von Discord immer nur mit einem Server, und dort mit einem Sprachkanal verbunden sein. Man sieht zu jedem Zeitpunkt, wer aktuell im Sprachkanal verbunden ist, und sich zur Zeit unterhalten kann.
+
+Jeder Teilnehmer eines Sprachkanals kann die individuelle Lautstärke jedes einzelnen Teilnehmers einstellen. Damit können Unterschiede der Mikrofone und Einstellungen bei den anderen Teilnehmern ausgeglichen werden.
+
+Neuerdings hat auch der Sprachkanal einen Chat, den haben wir noch nie verwendet. Evtl. wäre der für individuelle Trainingssessions eher geeignet.
 
 ## Weitere Eigenschaften von Discord
 
