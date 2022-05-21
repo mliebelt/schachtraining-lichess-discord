@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -66,7 +66,7 @@ const config = {
         title: 'Übersicht',
         logo: {
           alt: 'Workshop Logo',
-          src: 'img/favicon.ico',
+          src: 'img/logo.ico',
         },
         items: [
           {
