@@ -201,6 +201,39 @@ Auch hier müssen bei der Erstellung einige Parameter festgelegt werden. Ablauf:
 
 Danach steht das Turnier, und die URL zum Turnier kann z.B. im Chat von Discord geshart werden.
 
+## Freies Spiel
+
+Wir hatten vor allem bei Anfängern oft das Problem, dass diese an Turnieren nicht teilnehmen wollten. Der Stress mit der Zeit, das Ranking, ... war alles schwierig für die Kinder. Wir hatten dann oft einfach nur freies Spiel gemacht, so wie es in der normalen Schach-AG/dem Jugendtraining auch passiert. Das ist mit Lichess natürlich möglich, aber nicht ganz so einfach zu finden.
+
+* Herausforderung anderer Spieler
+* Vereinbarung einer Partie durch den Trainer
+
+### Herausforderung anderer Spieler
+
+Möchte ein Schüler gegen einen bestimmten anderen Spieler spielen, dann geht das unter dem folgenden Mechanismus:
+
+* Beide Schüler sind in Lichess angemeldet.
+* Einer der Schüler sucht in seiner Freundesliste den anderen Schüler.
+* Wenn er über dem Namen mit der Maus bleibt, erscheint ein Popup mit wesentlichen Möglichkeiten für die Interaktion mit dem Spieler.
+* Wenn der Schüler nun auf das Icon mit den Schwertern klickt (zu einer Partie herausfordern), dann erscheint der Dialog zur Einladung zu einer Partie:
+  * Variante: Voreinstellung Standard
+  * Bedenkzeit: Voreinstellung Unbegrenzt
+  * Gewertet oder Ungewertet
+  * Mit welcher Farbe man spielen möchte:
+    * Schwarz: der Herausforderer bekommt Schwarz
+
+Start Herausforderung
+
+![Lichess Herausforderung](./bilder/lichess-herausforderung.png)
+
+Nach Herausforderung warten
+
+![Lichess Herausforderer Dialog](./bilder/lichess-herausforderung-dialog.png)
+
+Dialog Herausgeforderter
+
+![Lichess Herausgeforderter Dialog](./bilder/lichess-herausforderung-dialog2.png)
+
 ## Simultan des Lehrers
 
 **Ausgangspunkt**: Manche Lerninhalte können durch ein Simultan besser geübt werden. Manchmal macht es auch einfach Spaß, mit vielen gleichzeitig gegen einen Besseren zu spielen.
