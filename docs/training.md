@@ -28,10 +28,18 @@ Natürlich sollte auch ein Online-Training eine Struktur haben, Abwechslung, ein
     * [Erstellung eines Team-Turniers](#erstellung-eines-team-turniers)
   * [Turnier nach Schweizer System](#turnier-nach-schweizer-system)
     * [Erstellung eines Turniers nach Schweizer System](#erstellung-eines-turniers-nach-schweizer-system)
+* [Freies Spiel](#freies-spiel)
+  * [Herausforderung anderer Spieler](#herausforderung-anderer-spieler)
+  * [Herausforderung von Freunden](#herausforderung-von-freunden)
+  * [Erstellung der Partie durch Trainer](#erstellung-der-partie-durch-trainer)
 * [Simultan des Lehrers](#simultan-des-lehrers)
   * [Erstellung eines Simultan](#erstellung-eines-simultan)
   * [Teilnahme am Simultan](#teilnahme-am-simultan)
 * [Sonstiges](#sonstiges)
+  * [Aufgabenbereiche](#aufgabenbereiche)
+  * [Puzzle Racer](#puzzle-racer)
+  * [Koordinaten lernen](#koordinaten-lernen)
+  * [Lernen trainieren](#lernen-trainieren)
 
 ## Unterricht über Studien
 
@@ -222,6 +230,8 @@ Möchte ein Schüler gegen einen bestimmten anderen Spieler spielen, dann geht d
   * Mit welcher Farbe man spielen möchte:
     * Schwarz: der Herausforderer bekommt Schwarz
 
+Dieser Ablauf ist meist nur durch ältere Kinder, die schon Erfahrung mit Lichess haben, zu leisten. Mit etwas technischem Hintergrund ist es möglich, dass der Trainer Partien für die Schüler erstellt.
+
 Start Herausforderung
 
 ![Lichess Herausforderung](./bilder/lichess-herausforderung.png)
@@ -233,6 +243,28 @@ Nach Herausforderung warten
 Dialog Herausgeforderter
 
 ![Lichess Herausgeforderter Dialog](./bilder/lichess-herausforderung-dialog2.png)
+
+### Herausforderung von Freunden
+
+Hier ein leichterer Ablauf, der vielleicht zu leisten ist:
+
+1. Der Schüler geht auf die Homepage, und wählt rechts "Spiele mit einem Freund" aus.
+2. Er wählt die Einstellungen: Bedenkzeit, Variante, ...
+3. Im Ergebnis bekommt er eine URL angezeigt, die muss er dem Freund (z.B. über Discord) zukommen lassen.
+4. Der Freund klickt auf die URL, bestätigt im  Dialog, dass er an der Partie teilnehmen möchte, und die Partie beginnt.
+
+### Erstellung der Partie durch Trainer
+
+Mit ein wenig technischem Know-How kann man auch Partien für die Schüler erstellen:
+
+1. Man erstellt ein Skript, das den REST-Endpunkt zur Erstellung von Challenges aufruft. Siehe das Skript unter [bin/licc.bash](./bin/licc.bash).
+2. Das Skript dann ohne (keine Bedenkzeit) oder mit Bedenkzeit in Sekunden und Inkrement aufrufen.
+3. Im Ergebnis steht die URL, die dann mit den Spielern geteilt wird.
+4. Die zwei Spieler, die auf die URL klicken, spielen dann gegeneinander.
+
+Das hat zu Zeiten sehr gut funktioniert, wenn ich mit jüngeren Kindern ohne Onlineerfahrung online trainieren wollte.
+
+Voraussetzungen für den Trainer sind: Installation von Bash und Curl, Umgang mit der Kommandozeile. Ich habe leider noch keine einfachere Möglichkeit gefunden, die dann auch besser benutzbar ist.
 
 ## Simultan des Lehrers
 
@@ -280,3 +312,43 @@ Hier eine lose Liste der Dinge, die wir auf Lichess während des Trainings immer
 * `Aufgaben > Puzzle Racer > Spiele mit Freunden`: Man stellt ein Rennen ein, bekommt einen Link, den man mit anderen shared. Sobald alle Teilnehmer sich eingetragen haben, wird das Rennen gestartet. Man muss nun um die Wette Aufgaben lösen. Bei jeder korrekten Lösung fährt das Rennauto eine bestimmte Strecke weiter.
 * `Lernen > Koordinaten`: Viele Schüler haben noch Schwierigkeiten, die Koordinaten richtig zu finden. Hier muss man gegen die Uhr auf eine angesagte Koordinate klicken.
 * `Lernen > Trainieren`: Hier kann jeder Schüler im selbstbestimmten Tempo Praktiken üben. Das geht von einfachen Mattaufgaben, über Standard-Taktiken wie Gabel oder Spieß bis zu bestimmten Endspielarten.
+
+### Aufgabenbereiche
+
+Aufgabenbereiche helfen Lichess-Nutzern, systematisch bestimmte Bereiche zu üben. Das können die Schüler aber nur alleine üben. Hier der Einstieg:
+
+* `Aufgaben > Aufgabenthemen`: Hier kann der Schüler einen Aufgabenbereich wählen, den er üben möchte. Alternativ kann er sich fÜr den "Gesunden Mix" entscheiden.
+* Sobald er sich für ein Motiv entschieden hat, geht es schon los. Der Schüler kann jederzeit die Aufgabenthemen wechseln, oder auch den Schwierigkeitsgrad anpassen.
+
+### Puzzle Racer
+
+Der Puzzle Racer ist eine nette Auflockerung, wenn der Wettbewerb etwas in den Hintergrund tritt. Hier geht es darum, dass Schüler im Wettbewerb immer schwerere Aufgaben schnell zu lösen. Bei jeder richtigen Lösung bekommt der Racer Punkte, die ihn näher zum Ziel bringen.
+
+So geht es:
+
+* Der Lehrer stellt über `Aufgaben > Puzzle Racer > Spiele mit Freunden` ein Rennen ein. 
+* Im Ergebnis erhält er eine URL, die dann über Discord den Schülern mitgeteilt wird.
+* Sobald alle, die mitmachen wollen, teilgenommen haben, startet der Trainer das Rennen.
+* Nach der voreingestellten Zeit (90 Sekunden) ist das Rennen automatisch zu Ende.
+
+Wir haben oft 3-4 Rennen nacheinander gemacht, um warm zu werden.
+
+### Koordinaten lernen
+
+Eine einfache Übung, die online natürlich viel besser geht. Hier blendet der Computer auf einem Brett eine Koordinate ein, die der Schüler dann treffen muss. Dann folgt die nächste. Ziel ist, möglichst viele Koordinaten richtig in 30 Sekunden zu finden.
+
+So geht es:
+
+* `Lernen > Koordinaten` auswählen. 
+* Man kann dann bestimmen, ob das Brett zufällig gedreht, aus Weißer Sicht oder aus Schwarzer Sicht dargestellt wird.. 
+* Über den Button "Training beginnen" beginnt das Training.
+
+### Lernen trainieren
+
+Hier stellt Lichess eine Vielzahl von vorbereiteten Übungen bereit, vergleichbar zu [Selbststudium > Durchgehen von Übungen](#selbststudium-durchgehen-von-uebungen). Der Unterschied hier ist, dass die Übungen zentral bereitgestellt werden, und ein Fortschritt durch Lichess getrackt wird. Man sieht also, welche Übungen man schon in der Vergangenheit (erfolgreich) gemacht hat, und welche noch offen sind.
+
+So geht es:
+
+* Man klickt auf eines der Themengebiete.
+* Man hat automatisch das erste Kapitel der Studie.
+* Nach jeder erfolgreichen Lösung geht es zum nächsten Kapitel.

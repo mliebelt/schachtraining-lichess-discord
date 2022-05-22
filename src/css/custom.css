@@ -36,3 +36,8 @@
 .table-of-contents {
   font-size: 0.9rem;
 }
+
+.markdown img {
+  padding: 5px;
+  border: 2px #2e8555 solid;
+}
