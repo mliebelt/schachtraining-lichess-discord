@@ -44,6 +44,7 @@ Die Übungen werden natürlich interaktiv durchgeführt, aber man sollte nachsch
     <li>Sobald die Teilnehmer auf die URL klicken, landen sie in der Studie / dem Kapitel.</li>
     <li>Man sieht die konkreten Teilnehmer, die dabei sind.</li>
     <li>Zur Sicherheit machen wir gerne noch einen Check, ob auch die Verbindung funktioniert: Pfeile malen, einen Zug ausführen und zurücknehmen, die Schüler sagen dann, was gerade passiert.</li>
+  </ol>
 
 Es kann dazu kommen, dass die Teilnehmer selbst aktiv in der Studie sind, und dann plötzlich nicht mehr synchron sind. Dann taucht in roter Knopf auf, den kann man drücken, und ist wieder "in sync".
 </details>
