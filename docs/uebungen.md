@@ -15,7 +15,6 @@ Die Übungen werden natürlich interaktiv durchgeführt, aber man sollte nachsch
 
 * [Training aus Sicht der Teilnehmer und Trainer](#training-aus-sicht-der-teilnehmer-und-trainer)
   * [Übung: Training als Trainer durchführen](#übung-training-als-trainer-durchführen)
-  * [Lösung Training durchführen](#lösung-training-durchführen)
 * [Trainingsvorbereitung](#trainingsvorbereitung)
   * [Vorbereitung klassischer Unterricht](#vorbereitung-klassischer-unterricht)
   * [Selbstlernmaterial erstellen](#selbstlernmaterial-erstellen)
@@ -37,13 +36,14 @@ Die Übungen werden natürlich interaktiv durchgeführt, aber man sollte nachsch
 <details>
   <summary>Und hier der konkrete Ablauf (als Vorschlag)</summary>
   
-  ### Lösung Training durchführen
-  1. Zuerst muss man die Studie haben als URL: entweder die Studie selbst, oder das Kapitel: Lernen > Studien > Meine Studien > Studie anwählen ==> URL im Browser; Kapitel: Kapitel auswählen > Teilen und Exportieren > URL des aktuellen Kapitels.
-  2. Einfügen der URL in den Textkanal, den man für das Training verwenden möchte.
-  3. Den Teilnehmern auch sagen, dass die URL nun verfügbar ist.
-  4. Sobald die Teilnehmer auf die URL klicken, landen sie in der Studie / dem Kapitel.
-  5. Man sieht die konkreten Teilnehmer, die dabei sind.
-  6. Zur Sicherheit machen wir gerne noch einen Check, ob auch die Verbindung funktioniert: Pfeile malen, einen Zug ausführen und zurücknehmen, die Schüler sagen dann, was gerade passiert.
+  <h3>Lösung Training durchführen</h3>
+  <ol>
+    <li>Zuerst muss man die Studie haben als URL: entweder die Studie selbst, oder das Kapitel: Lernen > Studien > Meine Studien > Studie anwählen ==> URL im Browser; Kapitel: Kapitel auswählen > Teilen und Exportieren > URL des aktuellen Kapitels.</li>
+    <li>Einfügen der URL in den Textkanal, den man für das Training verwenden möchte.</li>
+    <li>Den Teilnehmern auch sagen, dass die URL nun verfügbar ist.</li>
+    <li>Sobald die Teilnehmer auf die URL klicken, landen sie in der Studie / dem Kapitel.</li>
+    <li>Man sieht die konkreten Teilnehmer, die dabei sind.</li>
+    <li>Zur Sicherheit machen wir gerne noch einen Check, ob auch die Verbindung funktioniert: Pfeile malen, einen Zug ausführen und zurücknehmen, die Schüler sagen dann, was gerade passiert.</li>
 
 Es kann dazu kommen, dass die Teilnehmer selbst aktiv in der Studie sind, und dann plötzlich nicht mehr synchron sind. Dann taucht in roter Knopf auf, den kann man drücken, und ist wieder "in sync".
 </details>
