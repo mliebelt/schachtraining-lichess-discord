@@ -115,6 +115,7 @@ Welche Arten von Trainingsszenarien schauen wir uns an?
 * [Lernmaterial für Schüler](training.md#selbststudium): Studien können auch dazu genutzt werden, Selbstlernmaterial zu erstellen. Das kann von den Schülern dann eigenständig durchgearbeitet werden.
 * [Partieanalysen](training.md#partieanalysen): Vorbereitung, Selbstanalyse, Durchsprache im Unterricht, wie geht das mit Lichess?
 * [Turniere der Schüler (und Lehrer)](training.md#turniere-der-schüler): Praktisches üben, freies Spiel, Wettbewerb.
+* [Freies Spiel](training.md#freies-spiel): Ungewertete und gewertete Partien ohne ein Turnier
 * [Simultan des Lehrers](training.md#simultan-des-lehrers): Praktische Übung von Beispielstellungen, Endspieltraining praktisch, ...
 * [Sonstiges](training.md#sonstiges): Auflockerung, kleine Wettkämpfe, Vorschläge an die Schüler, ...
 
@@ -122,13 +123,14 @@ Welche Arten von Trainingsszenarien schauen wir uns an?
 
 Folgende Übungen könnten im Workshop durchgeführt werden (hängt dann an der Zeit, der Vorbereitung, und der praktischen Teilnahme):
 
-* Training aus Sicht der Teilnehmer + Trainer: Was sehen Teilnehmer, was sieht der Trainer? Hier sollte jeder Mal in jeder Rolle unterwegs gewesen sein.
+* [Training aus Sicht der Teilnehmer + Trainer](uebungen.md#training-aus-sicht-der-teilnehmer-und-trainer): Was sehen Teilnehmer, was sieht der Trainer? Hier sollte jeder Mal in jeder Rolle unterwegs gewesen sein.
 * Trainingsvorbereitung: Auf was muss man achten, wenn man
   * klassischen Unterricht vorbereitet
   * Selbstlernmaterial erstellt
 * Turniere nutzen: Wie läuft die Erstellung eines Turniers ab, welche Entscheidungen trifft man in welcher Reihenfolge?
 * Simultane erstellen: Was zu welchem Zweck, was kann dabei schief gehen?
 
+**TODO** Hier sind die konkreten Inhalte der Übungen zu verlinken.
 ## Checkliste
 
 Die folgende Checkliste fasst zusammen, welche Schritte in welcher Reihenfolge durch wen gemacht werden. Zuerst einmal die Rollen der Beteiligten:

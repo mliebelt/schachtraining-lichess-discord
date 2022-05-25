@@ -11,7 +11,8 @@ Es stehen die folgenden Inhalte zur Verfügung:
 * [Übersicht über den Workshop](docs/intro.md) Der beste Einstieg in den Workshop
 * [Alles zu Lichess](docs/lichess.md) (das relevant für den Workshop ist). Eine Art Referenz, die auch unabhängig vom Workshop genutzt werden kann.
 * [Alles zu Discord](docs/discord.md) (das relevant für den Workshop ist). Das Wichtigste zu Discord an einer Stelle.
-* [Training mit Lichess und Discord](docs/training.md) Eine Art Referenz, die von den Trainingskonzepten ausgeht. 
+* [Training mit Lichess und Discord](docs/training.md) Eine Art Referenz, die von den Trainingskonzepten ausgeht.
+* [Übungen](docs/uebungen.md) Was dann praktisch geübt werden kann.
 
 ## Konzept
 

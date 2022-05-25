@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+title: Online Training
+---
 # Online Training
 
 Diese Seite fasst die wesentlichen Aspekte des Online-Trainings zusammen. Dabei kommen wir nicht von den Hilfsmitteln, die wir einsetzen wollen (die sind nur referenziert, damit man die Details an anderer Stelle  nachlesen kann), sondern von dem, was wir trainieren möchten, und wie das vorbereitet und unterrichtet werden kann.
