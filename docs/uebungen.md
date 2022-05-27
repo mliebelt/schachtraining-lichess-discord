@@ -9,7 +9,7 @@ Die Übungen werden natürlich interaktiv durchgeführt, aber man sollte nachsch
 * [Training aus Sicht der Teilnehmer und Trainer](#training-aus-sicht-der-teilnehmer-und-trainer)
   * [Übung: Training als Trainer durchführen](#übung-training-als-trainer-durchführen)
 * [Trainingsvorbereitung](#trainingsvorbereitung)
-  * [Vorbereitung klassischer Unterricht](#vorbereitung-klassischer-unterricht)
+  * [Übung: Vorbereitung klassischer Unterricht](#übung-vorbereitung-klassischer-unterricht)
   * [Selbstlernmaterial erstellen](#selbstlernmaterial-erstellen)
 * [Turniere erstellen und besuchen](#turniere-erstellen-und-besuchen)
 * [Simultane erstellen und durchführen](#simultane-erstellen-und-durchführen)
@@ -44,7 +44,33 @@ Es kann dazu kommen, dass die Teilnehmer selbst aktiv in der Studie sind, und da
 
 ## Trainingsvorbereitung
 
-### Vorbereitung klassischer Unterricht
+### Übung: Vorbereitung klassischer Unterricht
+
+**Aufgabenstellung** Bereite eine Studie "Springergabel" so vor, dass der Unterricht direkt beginnen könnte. Hier zwei Stellungen, die dazu verwendet werden können:
+
+![Stellung 1 Springergabel](./bilder/springergabel1.png) ![Stellung 2 Springergabel](./bilder/springergabel2.png)
+
+**Tipps** 
+* Neue Studie erstellen, oder bestehende Studie nutzen? Was sind mögliche Kriterien dazu?
+* Legt neue Kapitel an, und benennt sie sprechend.
+* Überlegt euch, was in einem Kapitel gezeigt werden soll: Züge schon da, oder noch nicht; benötigt man farbliche Markierungen; wie sieht es mit sprechenden Kommentaren/NAGs aus?
+* Welche Einstellungen sind zwingend vorgegeben, welche können frei gewählt werden?
+
+<details>
+  <summary>Und hier der konkrete Ablauf (als Vorschlag)</summary>
+  
+  <h3>Lösung Vorbereitung klassischer Unterricht</h3>
+  <ol>
+    <li>Wenn die Studie schon da ist: fertig; sonst neue Studie anlegen: Sichtbarkeit == ungelistet, Computer-Analyse == Mitwirkende, Sync aktivieren == ja</li>
+    <li>Neues Kapitel erstellen, dazu den Tab "Editor" verwenden, die Stellung nachmalen. Wichtig: wer ist am Zug, aus welcher Perspektive darstellen, Analysemodus?</li>
+    <li>Mit der Startstellung nun die Züge und Varianten entwickeln.</li>
+    <li>Diese Vorgehensweise bei jedem Kapitel wiederholen.</li>
+    <li>Am Ende nochmal überprüfen, ob die Einstellungen richtig sind: Studie selbst (Hamburger-Menu); Kapitel: Analysemodus, erster Zug.</li>
+    <li>Am Ende die URL der Studie kopieren, oder die URL des Kapitels (Startpunkt für [Training für Trainer](#übung-training-als-trainer-durchführen)).</li>
+  </ol>
+
+Am Besten am Ende die Studie kurz antesten, damit man sieht, ob es funktioniert.
+</details>
 
 ### Selbstlernmaterial erstellen
 
