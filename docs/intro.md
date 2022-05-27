@@ -79,9 +79,9 @@ Es sollte nicht vergessen werden, dass man ja Online Training machen möchte. Da
 
 ## Installation Software für Lichess und Discord
 
-Für Lichess benötigt man keine Installation, Lichess kann am Besten direkt im Browser verwendet werden.
+Für Lichess benötigt man keine Installation, Lichess kann am Besten direkt im Browser verwendet werden. Es ist sogar so, dass Lichess im Browser zu jedem Zeitpunkt aktueller ist, und mehr Features bietet. Die Apps, die fÜr das Handy usw. verfügbar sind, sind gut, wenn man online spielen möchte, aber für das Training oft nicht geeignet.
 
-Discord ist ebenfalls kostenfrei, die Anwendung Discord erleichtert es für die Schachtraining-Teilnehmer meist, da Lichess == Browser, und Discord == Anwendung ist.
+Discord ist ebenfalls kostenfrei, die Anwendung Discord erleichtert es für die Schachtraining-Teilnehmer meist, da Lichess == Browser, und Discord == Anwendung ist. Bei Discord ist man auf jeden Fall beim Start der Anwendung schon angemeldet, was im Browser nicht immer der Fall sein muss.
 
 Nach Aufruf von [https://discord.com/](https://discord.com/) bekommt man oben prominent die Möglichkeit, die Software (passend zum Betriebssystem) herunterzuladen. Ansonsten kann man das auch über die Seite [https://discord.com/download](https://discord.com/download) tun.
 
@@ -94,9 +94,11 @@ Discord wird im Training vor allem für zwei Aspekte eingesetzt:
 
 Details zu den Text-Kanälen und Sprach-Kanälen sind dann im [Discord-Kapitel](discord.md) in den Abschnitten [Bereitstellung von Text- und Sprachkanälen](discord.md#text--und-sprachkanäle-bereitstellen), [Nutzung Textkanäle](discord.md#nutzung-von-textkanälen) und [Nutzung von Sprachkanälen](discord.md#nutzung-von-sprachkanälen) dargestellt.
 
+Discord hat auch die Möglichkeit, den Bildschirm zu übertragen, darauf wird im Training kaum eingegangen.
+
 ## Nutzung von Lichess im Training
 
-Lichess ist eine umfangreiche Plattform für viele Aspekte des Schachspiels. Hier sollen nur die Aspekte berührt werden, die bei uns zum Training eingesetzt werden. Es gibt sicher noch viel mehr Möglichkeiten, aber wir nutzen diese eben nicht, und von daher kann ich wenig dazu sagen.
+Lichess ist eine umfangreiche Plattform für viele Aspekte des Schachspiels. Hier sollen nur die Aspekte berührt werden, die bei uns zum Training eingesetzt werden. Es gibt sicher noch viel mehr Möglichkeiten, aber wir nutzen diese eben (zur Zeit) nicht, und von daher kann ich wenig dazu sagen.
 
 Die relevanten Aspekte für das Training (hier nur die Übersicht und die Links) sind:
 
@@ -124,13 +126,12 @@ Welche Arten von Trainingsszenarien schauen wir uns an?
 Folgende Übungen könnten im Workshop durchgeführt werden (hängt dann an der Zeit, der Vorbereitung, und der praktischen Teilnahme):
 
 * [Training aus Sicht der Teilnehmer + Trainer](uebungen.md#training-aus-sicht-der-teilnehmer-und-trainer): Was sehen Teilnehmer, was sieht der Trainer? Hier sollte jeder Mal in jeder Rolle unterwegs gewesen sein.
-* Trainingsvorbereitung: Auf was muss man achten, wenn man
-  * klassischen Unterricht vorbereitet
-  * Selbstlernmaterial erstellt
-* Turniere nutzen: Wie läuft die Erstellung eines Turniers ab, welche Entscheidungen trifft man in welcher Reihenfolge?
-* Simultane erstellen: Was zu welchem Zweck, was kann dabei schief gehen?
+* [Trainingsvorbereitung](uebungen.md#trainingsvorbereitung): Auf was muss man achten, wenn man
+  * [klassischen Unterricht](uebungen.md#vorbereitung-klassischer-unterricht) vorbereitet
+  * [Selbstlernmaterial erstellt](uebungen.md#selbstlernmaterial-erstellen)
+* [Turniere nutzen](uebungen.md#turniere-erstellen-und-besuchen): Wie läuft die Erstellung eines Turniers ab, welche Entscheidungen trifft man in welcher Reihenfolge?
+* [Simultane erstellen](uebungen.md#simultane-erstellen-und-durchführen): Was zu welchem Zweck, wie führt man es durch, welche Besonderheiten gibt es?
 
-**TODO** Hier sind die konkreten Inhalte der Übungen zu verlinken.
 ## Checkliste
 
 Die folgende Checkliste fasst zusammen, welche Schritte in welcher Reihenfolge durch wen gemacht werden. Zuerst einmal die Rollen der Beteiligten:
@@ -153,3 +154,10 @@ Die folgende Checkliste fasst zusammen, welche Schritte in welcher Reihenfolge d
 | Studie verwenden | Studie im Training verwenden | | X | X |
 | Simultan erstellen | Ein Simultan für das Training erstellen | | X | |
 | Simultan teilnehmen | Am Simultan des Trainers teilnehmen | | | X |
+
+Für die Durchführung des Workshops sollten alle Teilnehmer die Vorbereitungen für Teilnehmer vor dem Workshop umgesetzt haben. Das ist:
+
+* Lichess Account
+* Discord Account
+* Anmeldung im Team des Workshops (Lichess)
+* Anmeldung am Discord Server

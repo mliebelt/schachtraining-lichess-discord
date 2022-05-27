@@ -10,6 +10,7 @@ title: Lichess Referenz
   * [Anmeldung](#anmeldung)
   * [Registrierung](#registrierung)
 * [Aufbau von Lichess](#aufbau-von-lichess)
+  * [Lichess Menus](#lichess-menus)
 * [Nutzung von Studien](#nutzung-von-studien)
   * [Studie allgemein](#studie-allgemein)
   * [Studie für Analysen](#studie-für-analysen)
@@ -21,7 +22,7 @@ title: Lichess Referenz
 * [Nutzung von internen Turnieren](#nutzung-von-internen-turnieren)
 * [Weitere Möglichkeiten für das Training](#weitere-möglichkeiten-für-das-training)
 
-Diese Datei enthält die wichtigsten Begriffe, die während des Workshops genutzt werden. Es wird bewusst darauf verzichtet, schon zu erklären, wie das Training mit der Hilfe von Lichess erfolgt. Dies erfolgt an einer anderen Stelle.
+Diese Datei enthält die wichtigsten Begriffe, die während des Workshops genutzt werden. Es wird bewusst darauf verzichtet, schon zu erklären, wie das Training mit der Hilfe von Lichess erfolgt. Dies erfolgt an [einer anderen Stelle](training.md).
 
 ## Installation von Lichess
 
@@ -39,7 +40,7 @@ Dabei muss man sich in der Benutzeroberfläche zuerst einmal zurechtfinden.
 
 ![Lichess Kopf wenn angemeldet](bilder/menu-lichess-angemeldet.png)
 
-Unter den Buttons "SPIELEN" usw. verbergen sich jeweils Untermenüs, die werden in [Lichess Menüs](lichess.md) dargestellt werden.
+Unter den Buttons "SPIELEN" usw. verbergen sich jeweils Untermenüs, die werden in [Lichess Menüs](lichess.md#lichess-menus) dargestellt werden.
 
 Wichtig ist das Zahnrad, mit dem alle Einstellungen vorgenommen werden können. Ist man angemeldet, ist das unter dem Benutzernamen-Menü versteckt, sonst auf oberster Ebene rechts oben.
 
@@ -79,6 +80,49 @@ Es gibt einige Grundprinzipien, die hilfreich sind:
   * Simultan: `Spielen > Simultanschach`
   * Interne Turniere: `Gemeinschaft > Teams > Auswahl des Teams > Turniere links`
 * Damit man interne Turniere spielen kann benötigt man ein Team.
+
+Hier eine kurze Übersicht der Lichess-Menus.
+
+### Lichess Menus
+
+Es folgt eine kurze Übersicht der aktuell verfügbaren Lichess Menus, mit einer kurzen Erklärung. Die für das Training relevanten Teile werden an anderer Stelle dargestellt.
+
+* lichess.org: Link auf die Homepage. Stellt aktuelle Nachrichten, zentral Schnellzugriffe zu Partien, aktuelle Ranglisten und Sieger, ... dar.
+* Aufgaben: Einstieg in Aufgaben, meist werden aber die Untermenus verwendet.
+  * Aufgaben: Der oben erkläre Einstieg. Man kann die Themen und den Schwierigkeitsgrad bestimmen, und sammelt Punkte bei korrekten Lösungen.
+  * Aufgabenübersicht: In welchen Bereichen kommt man mit den Aufgaben wie gut voran, was sollte man mehr üben? Hier sind weitere Unterseiten verfügbar
+  * Puzzle Streak: Löse in Serie schwieriger werdende Aufgaben, ohne dabei einen Fehler zu machen. Keine Zeitbeschränkung!
+  * Puzzle Storm: Löse in 3 Minuten möglichst viele Aufgaben, bei erfolgreichen Serien bekommt man Zusatzzeit, bei falschen Zügen Zeitabzug.
+  * Puzzle Racer: Ein Puzzle-Rennen gegen andere Spieler. Erfolgreiche Lösungen bringen das eigene Auto näher zum Ziel.
+* Lernen: Themen rund um das Lernen
+  * Grundlagen: Viele Einstiegsstudien, um die Basisaspekte des Schachspiels zu lernen. Für Schachanfänger sehr hilfreich.
+  * Trainieren: Fortgeschrittene Taktische Muster oder auch Endspiele.
+  * Koordinaten: Finde in 30 Sekunden so viele Koordinaten wie möglich auf dem Brett. Für Einsteiger, die das Aufschreiben lernen, sehr nützlich.
+  * Studien: Ein eigenes Universum, dort verwalten wir unsere Trainingsinhalte (und vieles andere mehr).
+  * Trainer: Werbemöglichkeit für Online-Trainer, die über Lichess (kommerziell) Unterricht anbieten.
+  * Lichess Klassen: Ein Versuch von Lichess, Schachunterricht für Kinder zu organisieren. Wenig verwendet, kaum nützlich.
+* Zuschauen
+  * Lichess TV: Aktuelle interessante Partien in allen Kategorien.
+  * Laufende Partien: 15 Partien, die aktuell laufen, in allen Kategorien.
+  * Streamer: Übersicht über Streamer, die aktuell online sind sind oben.
+  * Übertragungen: Übertragungen von Turnieren, Partien können Live betrachtet werden.
+  * Video-Bibliotheken: Eingestellte Videos von verschiedenen (meist guten) Schachspielern. Die Videos sind kategorisiert, so dass man systematisch sehen kann.
+* Gemeinschaft: Alles rund um Spieler, Teams, ...
+  * Spieler: Übersicht über Spieler nach Kategorien
+  * Teams: Der Einstieg in die Teamwelt. Eigene Teams werden angezeigt, andere kann man beitreten, oder sogar eigene Teams grÜnden.
+  * Forum: Generelle Diskussionen rund um Lichess, meist English.
+  * Blog: Veröffentlichte Artikel von guten Schreibern mit interessanten Themen.
+  * Spenden: Lichess ist kostenfrei und lebt von Spenden. Der Spender bekommt dann Patron-Flügel. Lichess kostet aktuell ~34.000 Euro im Monat Betrieb und Weiterentwicklung.
+* Werkzeuge
+  * Analysebrett: Schneller Einstieg in Analysen, diese können bei Bedarf in Studien übernommen werden.
+  * Eröffnungsdatenbank: samt vieler Statistiken dazu
+  * Stellung aufbauen: ein Stellungs-Editor, um von da an Analysen durchführen zu können.
+  * Partie importieren: Nie probiert, aber vielleicht eine gute Möglichkeit. Meist verwende ich Studien direkt.
+  * Erweiterte Suche: Erlaubt eine Suche in der Datenbank von Lichess (mit SEHR vielen Partien)
+* Suche: Suche nach Spielern, mit deren Statistikseite
+* Herausforderungen: Herausforderungen, die an den Spieler gestellt und noch nicht beantwortet wurden.
+* Benachrichtigungen: Liste der persönlichen Nachrichten, eine Zahl für die noch nicht gesehenen Nachrichten.
+* Lichess-Benutzer: Einstieg in die persönlichen Einstellungen, und viele weiteren Informationen zum Spieler.
 
 ## Nutzung von Studien
 

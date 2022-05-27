@@ -44,23 +44,33 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
-  {
-    title: 'Schachunterricht Online',
-    link: 'docs/training',
-    Svg: require('@site/static/img/8_amigos-jugano-ajedrez_By_DG-RA.svg').default,
+ {
+  title: 'Schachunterricht Online',
+  link: 'docs/training',
+  Svg: require('@site/static/img/8_amigos-jugano-ajedrez_By_DG-RA.svg').default,
     description: (
     <>
       Schachunterricht online war zu Beginnn eine Krücke, hat sich aber als
       sehr wertvoll erwiesen. Einige Elemente setzen wir sogar jetzt im Offline-Unterricht ein.
     </>
-),
-},
-
+    ),
+  },
+  {
+    title: 'Übungen',
+    link: 'docs/uebungen',
+    Svg: require('@site/static/img/online-presentation.svg').default,
+    description: (
+    <>
+      Wir machen praktische Übungen vieler der vorgestellten Möglichkeiten als Lernkontrolle für die Teilnehmer.
+    </>
+    ),
+  },
+ 
 ];
 
 function Feature({title, link, Svg, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--3')}>
+    <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
