@@ -6,13 +6,6 @@ title: Übungen
 
 Die Übungen werden natürlich interaktiv durchgeführt, aber man sollte nachschauen können, oder auch später nachvollziehen können, was man im Workshop durchgenommen hat.
 
-* Training aus Sicht der Teilnehmer + Trainer: Was sehen Teilnehmer, was sieht der Trainer? Hier sollte jeder Mal in jeder Rolle unterwegs gewesen sein.
-* Trainingsvorbereitung: Auf was muss man achten, wenn man
-  * klassischen Unterricht vorbereitet
-  * Selbstlernmaterial erstellt
-* Turniere nutzen: Wie läuft die Erstellung eines Turniers ab, welche Entscheidungen trifft man in welcher Reihenfolge?
-* Simultane erstellen: Was zu welchem Zweck, was kann dabei schief gehen?
-
 * [Training aus Sicht der Teilnehmer und Trainer](#training-aus-sicht-der-teilnehmer-und-trainer)
   * [Übung: Training als Trainer durchführen](#übung-training-als-trainer-durchführen)
 * [Trainingsvorbereitung](#trainingsvorbereitung)
