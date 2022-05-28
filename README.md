@@ -25,13 +25,3 @@ Wie werden die Materialien angeboten?
 * Zudem wäre es möglich, über geeignetes Javascript auch dynamische Inhalte einzubinden. Evtl. muss dazu das Material als GitHub Pages angeboten werden, wobei dann nach jedem Commit eine neue Version erstellt und deployed wird. Initial kann aber darauf verzichtet werden.
 
 Das Ziel ist, am Ende eine öffentlich zugängliche Beschreibung zu haben, die während des Workshops genutzt werden kann, und die von Teilnehmern nach dem Workshop als eine Art Skript des Workshops verwendet werden können.
-
-## Umsetzung
-
-Das Material wird in den nächsten beiden Monaten erstellt werden, da der geplante Termin Mitte Juni 2022 liegt. Aber auch danach kann das Material weiter gepflegt werden. Wichtig ist, dass das Material immer für sich steht, und alle dort verlinkten und genutzten Ressourcen immer öffentlich sind.
-
-1. Erstellung des Rahmens: Markdown-Files mit Überschrift und kurzer Beschreibung
-2. Erstellung der Workshop-Agenda: Am Ende soll der Workshop unterstützt werden, und die Agenda gibt den Rahmen vor.
-3. Erstellung einiger Lichess-Studien, die dann später als Trainingsmaterial genutzt werden können.
-4. Erstellung der detaillierten Struktur anhand der Agenda
-5. Erstellung der einzelnen Kapitel der Struktur
