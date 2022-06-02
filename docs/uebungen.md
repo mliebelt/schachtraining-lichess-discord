@@ -13,7 +13,7 @@ Die Übungen werden natürlich interaktiv durchgeführt, aber man sollte nachsch
   * [Übung: Selbstlernmaterial erstellen](#übung-selbstlernmaterial-erstellen)
 * [Turniere erstellen und besuchen](#turniere-erstellen-und-besuchen)
   * [Übung: Turnier erstellen](#übung-turnier-erstellen)
-  * [Übung: 1 Runde  im Turnier spielen](#übung-1-runde--im-turnier-spielen)
+  * [Übung: 1 Runde im Turnier spielen](#übung-1-runde-im-turnier-spielen)
 * [Simultane erstellen und durchführen](#simultane-erstellen-und-durchführen)
   * [Übung: Simultan erstellen](#übung-simultan-erstellen)
   * [Übung: Simultan durchführen](#übung-simultan-durchführen)
@@ -81,7 +81,7 @@ Am Besten am Ende die Studie kurz antesten, damit man sieht, ob es funktioniert.
 **Aufgabenstellung** Erstelle Selbstlernmaterial zur Springergabel, und verprobe das in einer anonymen Session.
 
 **Tipps** 
-* Das Trainingsmaterial ist schon da (oder wird in der nächsten Übung dann erstellt)
+* Nimm 2-3 bekannte Aufgaben zur Springergabel, ober besorg dir sie von Lichess.
 * Wie kommen die Teilnehmer (online) ans Trainingsmaterial?
 * Wie kann man prüfen, ob die Teilnehmer "drin sind"?
 * Was kann alles schief gehen?
@@ -91,6 +91,10 @@ Am Besten am Ende die Studie kurz antesten, damit man sieht, ob es funktioniert.
   
   <h3>Lösung Training durchführen</h3>
   <ol>
+  <li>Nimm eine bestehende Studie mit Selbstmaterial, oder erstelle eine neue Studie. Einstellungen sind: Sync aktivieren == nein</li>
+  <li>Erstell ein Kapitel, mit der Einstellung Analysemodus == Interaktive Übung</li>
+  <li>Teste das erstellte Kapitel mit dem Preview-Knopf.</li>
+  <li>Teile die Übung mit jemandem: Teilen und exportieren > URL des aktuellen Kapitels kopieren > In Discord einfügen.</li>
   </ol>
 </details>
 
@@ -110,10 +114,16 @@ Am Besten am Ende die Studie kurz antesten, damit man sieht, ob es funktioniert.
   
   <h3>Lösung Turnier erstellen</h3>
   <ol>
+  <li>Der Turnierleiter erstellt das Turnier: Gemeinschaft > Teams  > Von mir geleitete Teams > Team auswählen</li>
+  <li>Turniere nach Schweizer System auswählen.</li>
+  <li>Die Parameter wie vorgegeben einstellen. Als Turnierstartzeit eine Zeit wählen, die wenige Minuten in der Zukunft liegt (siehe <a href="#übung-1-runde-im-turnier-spielen">nachfolgende Übung</a>))</li>
+  <li>Turnier fertigstellen. Das Turnier sollte anschließend in der Teamübersicht sichtbar sein.</li>
   </ol>
+
+  <p>Optional kann die URL für das Turnier mit den Teilnehmern über Discord geshared werden.</p>
 </details>
 
-### Übung: 1 Runde  im Turnier spielen
+### Übung: 1 Runde im Turnier spielen
 
 **Aufgabenstellung** Die Schüler (und der Trainer) melden sich zum Turnier an, und spielen eine Runde. Danach gehen sie  alle auf Pause (damit wir nicht nur spielen).
 
@@ -127,6 +137,10 @@ Am Besten am Ende die Studie kurz antesten, damit man sieht, ob es funktioniert.
   
   <h3>Lösung Turnier durchführen</h3>
   <ol>
+  <li>Jeder Teilnehmer geht auf die URL des Turniers.</li>
+  <li>Er meldet sich zum Turnier an, und wartet, bis das Turnier beginnt.</li>
+  <li>Das Turnier startet eigenständig, die Auslosung ist automatisch. Bei mehreren Runden spielen (wie bei Schweizer Turnieren üblich) Spieler mit ungefähr gleicher Punktzahl gegeneinander.</li>
+  <li>Nachdem ein Spiel beendet ist, müssen Spieler warten, bis alle anderen Spiele der Runde auch beendet sind. Die Wartezeit zwischen den Runden wurde bei der Erstellung des Turniers vorgegeben.</li>
   </ol>
 </details>
 
@@ -147,7 +161,11 @@ Am Besten am Ende die Studie kurz antesten, damit man sieht, ob es funktioniert.
   
   <h3>Lösung Simultan erstellen</h3>
   <ol>
-  <li>...</li>
+  <li>Der Trainer erstellt ein Simultan: Spielen > Simultanschach > Ein Simultan veranstalten</li>
+  <li>Es werden die Einstellungen für das Simultan gewählt: Standard; Grundbedenkzeit 5 Minuten; Zeit-Inkrement == 0; Extra-Bedenkzeit== keine; Farbe des Gastgebers==schwarz; Nur Teammitglieder==ws220618; Anfangsposition == `R7/P5k1/8/8/8/r1PK4/8/8 w - - 0 1`.</li>
+  <li>Die voraussichtliche Startzeit in die Zukunft setzen. Wir schauen nachher, ob dies einen Effekt hat.</li>
+  <li>Mit dem Knopf "Ein Simultan veranstalten" die Definition abschließen.</li>
+  <li>Die URL zum Simultan kopieren, und im Textkanal von Discord mit den anderen sharen. Ab hier ist dann die folgende Übung dran.</li>
   </ol>
 </details>
 
@@ -168,5 +186,8 @@ Am Besten am Ende die Studie kurz antesten, damit man sieht, ob es funktioniert.
   
   <h3>Lösung Simultan durchführen</h3>
   <ol>
+  <li>Die Teilnehmer kennen die URL des Simultan und haben die URL angewählt.</li>
+  <li>Der Veranstalter bestätigt dann jeden einzelnen Teilnehmer. Alternativ kann er alle reinkommenden Teilnehmer akzeptieren.</li>
+  <li>Es scheint wichtig zu sein, dass mehr als 1 Teilnehmer am Simultan teilnimmt. Zumindest hatte ich mit nur 2 Beteiligten ein Problem, ein funktionierendes Simultan zu erstellen.</li>
   </ol>
 </details>
