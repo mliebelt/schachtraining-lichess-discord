@@ -39,13 +39,13 @@ Kenncode: 241626
   * 9:05/10: Infrastruktur: Bild von mir zuhause, Discord/Lichess-Fenster, Mikrophon/Lautsprecher, ... (Bild dazu zeigen, auch Bild zeigen vom Workshop)
   * 9:15/20: Überblick Lichess: Nutzung Studien/Teams/Turnieren/Simultan
   * 9:35/10: Überblick Discord: Textchannel für Links/Sprachchannel zur Unterhaltung/Videoübertragung (in Ausnahmefällen)
-  * 9:45/15: Pause
+  * 9:45/15: Pause (was muss zur Vorbereitung gemacht werden?)
 * 10:00/45: Zweiter Teil: Training mit Lichess und Discord
   * 10:00/20: Training mit Studien: Lehrmaterial/Selbststudium, Gemeinsamkeiten und Unterschiede
   * 10:20/10: Simultan zur praktischen Übung: Beispielstellung soll im Training geprobt werden
   * 10:30/10: Turniere
   * 10:40/05: Weitere Möglichkeiten: Spiele, selbständiges Üben
-  * 10:45/15: Pause
+  * 10:45/15: Pause (was muss zur Vorbereitung gemacht werden?)
 * 11:00/45: Dritter Teil: Übungen. Wir schauen, wie viele der Übungen wir durchführen können.
   * 11:00/15: Training als Trainer durchführen
   * 11:15/15: Training vorbereiten, 1 Trainer, 2 Editoren. Wer kann was tun? Am Ende kurz "antrainieren".
