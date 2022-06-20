@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: sans-serif;
+            font-size: 20px;
+        }
+        input {
+            font-size: 24px;
+        }
+        #result {
+            margin-top: 1em
+        }
+        div span a {
+            margin-left: 10%;
+        }
+    </style>
+</head>
+<body>
+<h1>Open Challenge</h1>
+
+<p>Diese Seite erlaubt es, eine offene Herausforderung von Lichess zu bekommen, die dann von den Teilnehmern beim Training akzeptiert werden können. Aufbau:
+<ol>
+    <li>Fülle die Felder aus.</li>
+    <li>Drücke den Knopf "Erstellen".</li>
+    <li>Kopiere die gewünschten Links, so dass sie von anderen verwendet werden können.</li>
+</ol>
+</p>
+
+<form id="form">
+    <div class="form-group">
+        <label>Gegen Sie hier die Werte ein, für die sie eine Herausforderung erzeugen wollen!</label></br>
+        <input type="text" class="form-control" id="time" placeholder="Zeit in Sekunden">
+        <input type="text" class="form-control" id="incr" placeholder="Increment in Sekunden"></br>
+        <input type="text" class="form-control" id="fen" placeholder="Postion als FEN string">
+        <input type="submit" value="Erstellen">
+    </div>
+</form>
+<div id="result">
+    <div id="url">Zufällig: <span><a></a> </span></div>
+    <div id="whiteurl">Weiß: <span><a></a></span></div>
+    <div id="blackurl">Schwarz: <span><a></a></span></div>
+</div>
+<script>
+    var form = document.getElementById('form');
+    form.addEventListener('submit', (event) => {
+        createChallenge();
+        event.preventDefault();
+    })
+
+    var createChallenge = function() {
+        let fillURL = function(jsonUrl, id) {
+            let alink = document.getElementById(id).getElementsByTagName("span")[0].getElementsByTagName("a")[0]
+            alink.href = jsonUrl
+            alink.innerText = jsonUrl
+        }
+        var url = "https://lichess.org/api/challenge/open";
+
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", url);
+
+        xhr.setRequestHeader("Accept", "application/json");
+        xhr.setRequestHeader("Content-Type", "application/json");
+
+        xhr.onreadystatechange = function () {
+            console.log(xhr.responseText)
+            if (xhr.readyState === 4) {
+                console.log(xhr.status);
+                console.log(xhr.responseText);
+                let json = JSON.parse(xhr.responseText);
+                fillURL(json.challenge.url, "url");
+                fillURL(json.urlWhite, "whiteurl");
+                fillURL(json.urlBlack, "blackurl");
+            }};
+
+        let fen = document.getElementById("fen").value
+        let time = document.getElementById("time").value
+        let incr = document.getElementById("incr").value
+        let data = '{' +
+            (fen ? ('"fen":"' + fen + '"' + (time ? ', ' : '')) : '') +
+            (time ? ('"clock.limit": ' + time + ',') : '') +
+            (incr ? ('"clock.increment": ' + incr ) : '') +
+            '}'
+
+        xhr.send(data);
+    }
+
+
+</script>
+</body>
+</html>
