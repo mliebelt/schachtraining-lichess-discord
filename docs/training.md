@@ -270,7 +270,7 @@ Das hat zu Zeiten sehr gut funktioniert, wenn ich mit jüngeren Kindern ohne Onl
 
 Voraussetzungen für den Trainer sind: Installation von Bash und Curl, Umgang mit der Kommandozeile. Ich habe leider noch keine einfachere Möglichkeit gefunden, die dann auch besser benutzbar ist.
 
-Eine weitere Anforderung, die im Workshop geäußert wurde, ist, dass man die Stellung gerne vorgeben möchte, die dann von den Teilnehmern ausgespielt werden sollte. Siehe auch das Ticket [#4](https://github.com/mliebelt/schachtraining-lichess-discord/issues/4) das ich im Nachgang erstellt hatte, mit ein paar Ideen, wie man hier evtl. weiter kommen kann. Realistisch ist, dass man sich eine statische Webseite bastelt, in der die Parameter (Zeit, Inkrement, Position) eingetragen werden, so dass dann über Lichess eine "Challenge" erzeugt wird. Die Trainingsteilnehmer können dann den erzeugten Link nutzen, um die Partie zu starten. [Hier](./html/open-challenge.html) ist eine erste Umsetzung, die vielleicht gut genug ist.
+Eine weitere Anforderung, die im Workshop geäußert wurde, ist, dass man die Stellung gerne vorgeben möchte, die dann von den Teilnehmern ausgespielt werden sollte. Siehe auch das Ticket [#4](https://github.com/mliebelt/schachtraining-lichess-discord/issues/4) das ich im Nachgang erstellt hatte, mit ein paar Ideen, wie man hier evtl. weiter kommen kann. Realistisch ist, dass man sich eine statische Webseite bastelt, in der die Parameter (Zeit, Inkrement, Position) eingetragen werden, so dass dann über Lichess eine "Challenge" erzeugt wird. Die Trainingsteilnehmer können dann den erzeugten Link nutzen, um die Partie zu starten. [Hier](/open-challenge.html) ist eine erste Umsetzung, die vielleicht gut genug ist.
 
 ## Simultan des Lehrers
 

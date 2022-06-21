@@ -60,8 +60,11 @@
         var xhr = new XMLHttpRequest();
         xhr.open("POST", url);
 
+        // xhr.setRequestHeader("Access-Control-Allow-Headers", "content-type");
         xhr.setRequestHeader("Accept", "application/json");
-        xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.setRequestHeader("content-type", "application/json");
+        // xhr.setRequestHeader("access-control-allow-origin", "*");
+        // xhr.setRequestHeader("access-control-allow-methods", "POST")
 
         xhr.onreadystatechange = function () {
             console.log(xhr.responseText)
@@ -82,7 +85,7 @@
             (time ? ('"clock.limit": ' + time + ',') : '') +
             (incr ? ('"clock.increment": ' + incr ) : '') +
             '}'
-
+        console.log("Send: " + data)
         xhr.send(data);
     }
 
