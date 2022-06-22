@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=utf-8">
     <style>
         body {
             font-family: sans-serif;
@@ -60,7 +62,7 @@
         var xhr = new XMLHttpRequest();
         xhr.open("POST", url);
 
-        // xhr.setRequestHeader("Access-Control-Allow-Headers", "content-type");
+        xhr.setRequestHeader("Access-Control-Allow-Headers", "content-type");
         xhr.setRequestHeader("Accept", "application/json");
         xhr.setRequestHeader("Content-Type", "application/json");
         // xhr.setRequestHeader("access-control-allow-origin", "*");
