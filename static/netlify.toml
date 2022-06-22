@@ -2,5 +2,5 @@
   for = "/*"
   [headers.values]
     Origin = "https://schachtraining-lichess-discord.netlify.app"
-    Access-Control-Allow-Headers = "Content-Type"
     Access-Control-Allow-Origin = "https://schachtraining-lichess-discord.netlify.app"
+    Access-Control-Allow-Headers = "Content-Type"
