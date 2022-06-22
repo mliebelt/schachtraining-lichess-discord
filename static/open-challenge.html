@@ -82,11 +82,14 @@
         let fen = document.getElementById("fen").value
         let time = document.getElementById("time").value
         let incr = document.getElementById("incr").value
-        let data = '{' +
-            (fen ? ('"fen":"' + fen + '"' + (time ? ', ' : '')) : '') +
-            (time ? ('"clock.limit": ' + time + ',') : '') +
-            (incr ? ('"clock.increment": ' + incr ) : '') +
-            '}'
+        let data = new URLSearchParams();
+        if (fen) {
+            data.append("fen", fen);
+        }
+        if (time) {
+            data.append("clock.limit", time);
+            data.append("clock.increment", incr);
+        }
         console.log("Send: " + data)
         xhr.send(data);
     }
