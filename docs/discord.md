@@ -35,7 +35,7 @@ Bei der Registrierung muss man die folgenden Daten angeben:
 * Geburtsdatum
 * Haken bei Nutzungsbedingungen
 
-Evtl. kommen noch andere Schritte, aber das ist der übliche Registrierungsprozess.
+Eventuell kommen noch andere Schritte, aber das ist der übliche Registrierungsprozess.
 
 Wenn man dann Discord schließt, und die Anwendung wieder öffnet, ist man automatisch auch wieder angemeldet.
 
@@ -85,11 +85,11 @@ Textkanäle sind, wie der Name sagt, für die Kommunikation per Text. Die Textka
 In Textkanälen werden die Links von Lichess geshart. Die Schüler müssen dies lernen, aber wenn sie das mal verstanden haben, dann wissen sie, dass sie auf die Links klicken müssen, um dann im Browser in Lichess die entsprechende Studie (oder was auch immer) zu sehen.
 ## Nutzung von Sprachkanälen
 
-Man kann als Teilnehmer von Discord immer nur mit einem Server, und dort mit einem Sprachkanal verbunden sein. Man sieht zu jedem Zeitpunkt, wer aktuell im Sprachkanal verbunden ist, und sich zur Zeit unterhalten kann.
+Man kann als Teilnehmer von Discord immer nur mit einem Server, und dort mit einem Sprachkanal verbunden sein. Man sieht zu jedem Zeitpunkt, wer aktuell im Sprachkanal verbunden ist, und sich zurzeit unterhalten kann.
 
 Jeder Teilnehmer eines Sprachkanals kann die individuelle Lautstärke jedes einzelnen Teilnehmers einstellen. Damit können Unterschiede der Mikrofone und Einstellungen bei den anderen Teilnehmern ausgeglichen werden.
 
-Neuerdings hat auch der Sprachkanal einen Chat, den haben wir noch nie verwendet. Evtl. wäre der für individuelle Trainingssessions eher geeignet.
+Neuerdings hat auch der Sprachkanal einen Chat, den haben wir noch nie verwendet. Eventuell wäre der für individuelle Trainingssessions eher geeignet.
 
 Im Sprachkanal kann man sehen, ob Teilnehmer verbunden sind, aktuell sprechen, usw. usf. Hier einige der wichtigsten Merkmale:
 
@@ -99,7 +99,7 @@ Im Sprachkanal kann man sehen, ob Teilnehmer verbunden sind, aktuell sprechen, u
 
 ## Weitere Eigenschaften von Discord
 
-Discord kann auch verwendet werden in ähnlicher Form wie Zoom. Von Zeit zu Zeit verwenden wir im Jugendtraining auch die Möglichkeit, den Bildschirm zu übertragen. Daneben ist es für die Kinder und Jugendlichen ab und an auch nett, wenn sie ihre Kamera anschalten, so dass andere sie sehen können.
+Discord kann auch verwendet werden in ähnlicher Form wie Zoom. Von Zeit zu Zeit verwenden wir im Jugendtraining auch die Möglichkeit, den Bildschirm zu übertragen. Daneben ist es für die Kinder und Jugendlichen ab und an auch nett, wenn sie ihre Kamera anschalten, sodass andere sie sehen können.
 
 Hier sieht man, wie es aussieht, wenn man die Kamera angeschaltet hat.
 
@@ -114,7 +114,7 @@ Für einen Teilnehmer sieht das so aus.
 
 ![Discord Bildschirmübertragung Teilnehmer](bilder/discord-bildschirm-aktiv-teilnehmer.png)
 
-Zum Anschalten muss man nur auf den Live-Knopf drücken, und Anschließend im Dialog bestätigen.
+Zum Anschalten muss man nur auf den Live-Knopf drücken, und anschließend im Dialog bestätigen.
 
 ![Discord Bildschirmübertragung Teilnehmer starten](bilder/discord-bildschirm-aktiv-teilnehmer-anschalten.png)
 
@@ -132,7 +132,7 @@ Das Anlegen eines Servers ist trivial, man drückt den Knopf, beantwortet einige
 
 * Leute einladen
 * Text- und Sprachkanäle bereitstellen
-* (evtl.) Rechtevergabe an die registrierten Benutzer
+* (eventuell) Rechtevergabe an die registrierten Benutzer
 
 ### Leute einladen
 

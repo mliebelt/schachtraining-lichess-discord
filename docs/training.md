@@ -4,7 +4,7 @@ title: Online Training
 ---
 # Online Training
 
-Diese Seite fasst die wesentlichen Aspekte des Online-Trainings zusammen. Dabei kommen wir nicht von den Hilfsmitteln, die wir einsetzen wollen (die sind nur referenziert, damit man die Details an anderer Stelle  nachlesen kann), sondern von dem, was wir trainieren möchten, und wie das vorbereitet und unterrichtet werden kann.
+Diese Seite fasst die wesentlichen Aspekte des Online-Trainings zusammen. Dabei kommen wir nicht von den Hilfsmitteln, die wir einsetzen wollen (die sind nur referenziert, damit man die Details an anderer Stelle nachlesen kann), sondern von dem, was wir trainieren möchten, und wie das vorbereitet und unterrichtet werden kann.
 
 Was sind die verschiedenen Elemente?
 
@@ -82,7 +82,7 @@ Hier noch einige Anmerkungen zur Nutzung der Studie dabei:
 * Die Studie hat keinen (sinnvollen) read-only Modus. D.h. beim Durchnehmen der Lektion verändern sich die Kapitel. Wer das nicht möchte, der kann einfach die Studie kopieren, bevor er mit der Lektion beginnt.
 * Wer bei der Studie mitwirkt, kann diese verändern. Das hat aber (leider) keine Auswirkung auf die Sichtbarkeit von Zügen. D.h. nur der Ersteller einer Studie kann mit Sichtbarkeiten sinnvoll arbeiten.
 * Wenn die Schüler selbst Versuche auf dem Brett anstellen (und sie keine Mitwirkenden sind), dann wird das nicht in der Studie festgehalten.
-* Wenn die Schüler selbst Versuche machen, dann kommen sie (bei einer Veränderung durch den Lehrer) aus der Synchronisation. Der vorher nicht sichtbare "SYNC" Knopf wird rot, und zeigt die Anzahl der Züge an, die der Schüler abweicht. Durch drücken des roten Knopfes ist man wieder in SYNC.
+* Wenn die Schüler selbst Versuche machen, dann kommen sie (bei einer Veränderung durch den Lehrer) aus der Synchronisation. Der vorher nicht sichtbare "SYNC" Knopf wird rot und zeigt die Anzahl der Züge an, die der Schüler abweicht. Durch Drücken des roten Knopfes ist man wieder in SYNC.
 * Die Bedeutung der zwei Knöpfe SYNC und REC für den Lehrer:
   * SYNC: Abkoppeln von den Schülern. Beim erneuten Drücken von SYNC ist man wieder da, wo man vorher war. Für die Schüler ändert sich während der Zeit nichts.
   * REC: Die Aufnahme wird abgestellt, aber leider auch die Möglichkeit, synchronisiert durch die Züge zu gehen. Macht vielleicht dann Sinn, wenn man was ausprobieren möchte, bevor man es richtig aufzeichnet.
@@ -99,7 +99,7 @@ Hier können ebenfalls Studien verwendet werden, um geführte Übungen durchfüh
 
 1. Bestehende Studie verwenden, oder neue erstellen. Der Name der Studie sollte klar auf den Zweck hindeuten, gegebenenfalls kann man den Tag "Übung" vergeben.
 2. Sync der Studie muss deaktiviert sein, damit die Schüler die Übungen eigenständig und in ihrem Tempo durchgehen können.
-3. Bei jedem Kapitel angeben: Interaktive Übungen.
+3. Bei jedem Kapitel angeben: interaktive Übungen.
 4. Die Züge von der Ausgangsstellung spielen, bei Bedarf zusätzlich mit Kommentaren oder Varianten unterstützen.
 
 Siehe die Studie [Übungen zum Schäfermatt](https://lichess.org/study/RDKUJ6nv) zum Ausprobieren.
@@ -129,7 +129,7 @@ Siehe die Studie [Übungen zum Schäfermatt](https://lichess.org/study/RDKUJ6nv)
 3. Die Schüler starten dann selbständig mit der Analyse, und können sich dabei ungestört unterhalten.
 4. Der Lehrer kann von Zeit zu Zeit bei den Schülern im Raum vorbeischauen, und sie bei der Analyse unterstützen.
 
-Wie man mit der Analyse der Schüler weiter umgeht wird im folgenden Kapitel besprochen.
+Wie man mit der Analyse der Schüler weiter umgeht, wird im folgenden Kapitel besprochen.
 
 ## Durchsprache der Analysen
 
@@ -161,7 +161,7 @@ Voraussetzung für alle Turniere im Team ist, dass die Teilnehmer des Trainings 
 
 ### Team-Turnier
 
-Arenatruniere sind Turniere, bei denen jeder Teilnehmer jederzeit ein- und aussteigen kann. Sobald eine Partie zueende ist, und der Teilnehmer nicht pausiert, wird er sofort wieder ausgelost. Team-Turniere machen erst ab einer Teilnehmerzahl von 6-8 Teilnehmern Sinn, und selbst dann kann es sein, dass einige Teilnehmer einige Zeit warten, dass sie wieder zugelost werden. Bei 15-20 Teilnehmern (und natürlich mehr) geht das aber reibungslos.
+Arenaturniere sind Turniere, bei denen jeder Teilnehmer jederzeit ein- und aussteigen kann. Sobald eine Partie zueende ist, und der Teilnehmer nicht pausiert, wird er sofort wieder ausgelost. Team-Turniere machen erst ab einer Teilnehmerzahl von 6 bis 8 Teilnehmern Sinn, und selbst dann kann es sein, dass einige Teilnehmer einige Zeit warten, dass sie wieder zugelost werden. Bei 15-20 Teilnehmern (und natürlich mehr) geht das aber reibungslos.
 
 #### Erstellung eines Team-Turniers
 
@@ -184,7 +184,7 @@ Die Teilnehmer können dann einfach an dem Turnier teilnehmen.
 
 ![Darstellung Arena-Turnier](./bilder/arena-turnier.png)
 
-Nach Klick auf dem Knopf sieht man das offene Arenda-Turnier, mit einem großen Button "Teilnehmen". Zusätzlich bekommt man den Hinweis, dass man nur als Teammitglied teilnehmen kann.
+Nach Klick auf dem Knopf sieht man das offene Arena-Turnier, mit einem großen Button "Teilnehmen". Zusätzlich bekommt man den Hinweis, dass man nur als Teammitglied teilnehmen kann.
 
 ![Hinweis im Arena-Turnier](./bilder/arena-turnier-hinweis.png)
 
@@ -255,7 +255,7 @@ Hier ein leichterer Ablauf, der vielleicht zu leisten ist:
 1. Der Schüler geht auf die Homepage, und wählt rechts "Spiele mit einem Freund" aus.
 2. Er wählt die Einstellungen: Bedenkzeit, Variante, ...
 3. Im Ergebnis bekommt er eine URL angezeigt, die muss er dem Freund (z.B. über Discord) zukommen lassen.
-4. Der Freund klickt auf die URL, bestätigt im  Dialog, dass er an der Partie teilnehmen möchte, und die Partie beginnt.
+4. Der Freund klickt auf die URL, bestätigt im Dialog, dass er an der Partie teilnehmen möchte, und die Partie beginnt.
 
 ### Erstellung der Partie durch Trainer
 
@@ -270,7 +270,7 @@ Das hat zu Zeiten sehr gut funktioniert, wenn ich mit jüngeren Kindern ohne Onl
 
 Voraussetzungen für den Trainer sind: Installation von Bash und Curl, Umgang mit der Kommandozeile. Ich habe leider noch keine einfachere Möglichkeit gefunden, die dann auch besser benutzbar ist.
 
-Eine weitere Anforderung, die im Workshop geäußert wurde, ist, dass man die Stellung gerne vorgeben möchte, die dann von den Teilnehmern ausgespielt werden sollte. Siehe auch das Ticket [#4](https://github.com/mliebelt/schachtraining-lichess-discord/issues/4) das ich im Nachgang erstellt hatte, mit ein paar Ideen, wie man hier evtl. weiter kommen kann. Realistisch ist, dass man sich eine statische Webseite bastelt, in der die Parameter (Zeit, Inkrement, Position) eingetragen werden, so dass dann über Lichess eine "Challenge" erzeugt wird. Die Trainingsteilnehmer können dann den erzeugten Link nutzen, um die Partie zu starten. [Hier](/open-challenge.html) ist eine erste Umsetzung, die vielleicht gut genug ist.
+Eine weitere Anforderung, die im Workshop geäußert wurde, ist, dass man die Stellung gerne vorgeben möchte, die dann von den Teilnehmern ausgespielt werden sollte. Siehe auch das Ticket [#4](https://github.com/mliebelt/schachtraining-lichess-discord/issues/4) das ich im Nachgang erstellt hatte, mit ein paar Ideen, wie man hier evtl. weiter kommen kann. Realistisch ist, dass man sich eine statische Webseite bastelt, in der die Parameter (Zeit, Inkrement, Position) eingetragen werden, sodass dann über Lichess eine "Challenge" erzeugt wird. Die Trainingsteilnehmer können dann den erzeugten Link nutzen, um die Partie zu starten. [Hier](/open-challenge.html) ist eine erste Umsetzung, die vielleicht gut genug ist.
 
 ## Simultan des Lehrers
 
@@ -308,7 +308,7 @@ Hier der Ablauf:
 
 ## Sonstiges
 
-**Ausgangspunkt**: Wie kann man das Training noch abwechslungsreich gestalten?  Welche anderen Möglichkeiten von Lichess können auch im (Online-)Training eingesetzt werden?
+**Ausgangspunkt**: Wie kann man das Training noch abwechslungsreich gestalten? Welche anderen Möglichkeiten von Lichess können auch im (Online-)Training eingesetzt werden?
 
 **Ziel**: Varianz reinbekommen, Spaß haben, Abwechslung
 
@@ -337,7 +337,7 @@ So geht es:
 * Sobald alle, die mitmachen wollen, teilgenommen haben, startet der Trainer das Rennen.
 * Nach der voreingestellten Zeit (90 Sekunden) ist das Rennen automatisch zu Ende.
 
-Wir haben oft 3-4 Rennen nacheinander gemacht, um warm zu werden.
+Wir haben oft 3-4 Rennen nacheinander gemacht, um warmzuwerden.
 
 ### Koordinaten lernen
 
@@ -346,7 +346,7 @@ Eine einfache Übung, die online natürlich viel besser geht. Hier blendet der C
 So geht es:
 
 * `Lernen > Koordinaten` auswählen. 
-* Man kann dann bestimmen, ob das Brett zufällig gedreht, aus Weißer Sicht oder aus Schwarzer Sicht dargestellt wird.. 
+* Man kann dann bestimmen, ob das Brett zufällig gedreht, aus weißer Sicht oder aus schwarzer Sicht dargestellt wird.. 
 * Über den Button "Training beginnen" beginnt das Training.
 
 ### Lernen trainieren

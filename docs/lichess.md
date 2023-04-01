@@ -68,7 +68,7 @@ Im Anmelde-Bildschirm gibt es eine Möglichkeit, sich zu registrieren.
 
 ![Start Registrierung](bilder/start-registrieren-lichess.png)
 
-Im folgenden Formular hat man einen Benutzernamen zu wählen, ein Passwort anzugeben (dabei sollte die Passwortstärke ausreichend sein) und eine Email angeben. Nach Bestätigung der Checkboxen und der Bestätigung, dass man ein Mensch ist, bekommt man eine Email geschickt, um die Anmeldung abzuschließen.
+Im folgenden Formular hat man einen Benutzernamen zu wählen, ein Passwort anzugeben (dabei sollte die Passwortstärke ausreichend sein) und eine E-Mail angeben. Nach Bestätigung der Checkboxen und der Bestätigung, dass man ein Mensch ist, bekommt man eine E-Mail geschickt, um die Anmeldung abzuschließen.
 
 ## Aufbau von Lichess
 
@@ -96,20 +96,20 @@ Es folgt eine kurze Übersicht der aktuell verfügbaren Lichess Menus, mit einer
   * Puzzle Racer: Ein Puzzle-Rennen gegen andere Spieler. Erfolgreiche Lösungen bringen das eigene Auto näher zum Ziel.
 * Lernen: Themen rund um das Lernen
   * Grundlagen: Viele Einstiegsstudien, um die Basisaspekte des Schachspiels zu lernen. Für Schachanfänger sehr hilfreich.
-  * Trainieren: Fortgeschrittene Taktische Muster oder auch Endspiele.
+  * Trainieren: Fortgeschrittene taktische Muster oder auch Endspiele.
   * Koordinaten: Finde in 30 Sekunden so viele Koordinaten wie möglich auf dem Brett. Für Einsteiger, die das Aufschreiben lernen, sehr nützlich.
-  * Studien: Ein eigenes Universum, dort verwalten wir unsere Trainingsinhalte (und vieles andere mehr).
+  * Studien: Ein eigenes Universum dort verwalten wir unsere Trainingsinhalte (und vieles andere mehr).
   * Trainer: Werbemöglichkeit für Online-Trainer, die über Lichess (kommerziell) Unterricht anbieten.
   * Lichess Klassen: Ein Versuch von Lichess, Schachunterricht für Kinder zu organisieren. Wenig verwendet, kaum nützlich.
 * Zuschauen
   * Lichess TV: Aktuelle interessante Partien in allen Kategorien.
   * Laufende Partien: 15 Partien, die aktuell laufen, in allen Kategorien.
-  * Streamer: Übersicht über Streamer, die aktuell online sind sind oben.
-  * Übertragungen: Übertragungen von Turnieren, Partien können Live betrachtet werden.
-  * Video-Bibliotheken: Eingestellte Videos von verschiedenen (meist guten) Schachspielern. Die Videos sind kategorisiert, so dass man systematisch sehen kann.
+  * Streamer: Übersicht über Streamer, die aktuell online sind oben.
+  * Übertragungen: Übertragungen von Turnieren, Partien können live betrachtet werden.
+  * Video-Bibliotheken: Eingestellte Videos von verschiedenen (meist guten) Schachspielern. Die Videos sind kategorisiert, sodass man systematisch sehen kann.
 * Gemeinschaft: Alles rund um Spieler, Teams, ...
   * Spieler: Übersicht über Spieler nach Kategorien
-  * Teams: Der Einstieg in die Teamwelt. Eigene Teams werden angezeigt, andere kann man beitreten, oder sogar eigene Teams grÜnden.
+  * Teams: Der Einstieg in die Teamwelt. Eigene Teams werden angezeigt, andere kann man beitreten, oder sogar eigene Teams gründen.
   * Forum: Generelle Diskussionen rund um Lichess, meist English.
   * Blog: Veröffentlichte Artikel von guten Schreibern mit interessanten Themen.
   * Spenden: Lichess ist kostenfrei und lebt von Spenden. Der Spender bekommt dann Patron-Flügel. Lichess kostet aktuell ~34.000 Euro im Monat Betrieb und Weiterentwicklung.
@@ -143,7 +143,7 @@ Bei der Nutzung von Studien sind einige Aspekte zu beachten, das Folgende ist de
   * Nur mit Einladung: nur Ersteller/Mitwirkender/Betrachter haben Zugriff. Wird bei uns nur in Ausnahmefällen verwendet.
   * Es kann noch definiert werden:
     * Kann die Studie kopiert werden?
-    * Wer kann die Computer-Analyse verwenden? Wichtig, wenn man Kindern was beibringen möchte, die finden Stockfish auch wenn man es ihnen nicht zeigt ...
+    * Wer kann die Computer-Analyse verwenden? Wichtig, wenn man Kindern was beibringen möchte, die finden Stockfish auch, wenn man es ihnen nicht zeigt ...
     * Wer kann die Eröffnungsdatenbank nutzen? Gilt vermutlich auch für die Endspieldatenbank
     * Wer kann den Chat nutzen?
   * Die wichtigste Eigenschaft ist, ob der Syn aktiviert ist oder nicht.
@@ -166,7 +166,7 @@ Damit ich die Studien später wiederfinde habe ich hier ein Namensschema, das da
 * Schach-AG Bauerndiplom >= B12
 * Übungen Rochadekids >= 53
 
-Zudem vergebe ich für jede Studie mindestens 2-3 Themen, z.B. Schach-AG, Bauerndiplom für Anfängermaterial für  die Schach-AG; Schach-AG, Läuferdiplom, Übungen für fortgeschrittene Übungen usw. usf.
+Zudem vergebe ich für jede Studie mindestens 2-3 Themen, z.B. Schach-AG, Bauerndiplom für Anfängermaterial für die Schach-AG; Schach-AG, Läuferdiplom, Übungen für fortgeschrittene Übungen usw. usf.
 
 ### Studie für Analysen
 
@@ -205,7 +205,7 @@ Partien sollen von den Schülern selbständig erfasst und auch analysiert werden
   * `Gemeinschaft > Teams > Neues Team`
   * Ausfüllen des Formulars
   * Entweder Beitrittsanfragen manuell prüfen oder Passwort vergeben (um die Teammitglieder zu begrenzen)
-  * Der Ersteller ist  automatisch der Teamleader, und kann andere Teamleader noch bestellen.
+  * Der Ersteller ist automatisch der Teamleader, und kann andere Teamleader noch bestellen.
 * Beitritt
   * Beitrittsanfragen prüfen
     * Mögliche Mitglieder gehen auf die Teamseite.
@@ -230,7 +230,7 @@ Nachdem wir nun ein Team zur Verfügung haben, können wir auch ein Simultan nur
 * Entscheiden, welche Varianten genutzt werden können. Üblich ist nur `Standard`.
 * Man gibt die Grundbedenkzeit vor (für Simultanspieler und die Teilnehmer).
 * Der Simultanspieler kann noch mehr Bedenkzeit fix dazubekommen.
-* **Wichtig** Bei dem Dropdown `Nur Teammitglieder` das entsprechende Team auswählen.
+* **Wichtig** bei dem Dropdown `Nur Teammitglieder` das entsprechende Team auswählen.
 * Als Anfangsposition kann ein FEN vorgegeben werden (der z.B. mit dem Bretteditor erstellt wird).
 * Die Startzeit vorgeben.
 * Die definierten Einstellungen mit `Ein Simultan veranstalten` abschicken.
@@ -247,7 +247,7 @@ Es gibt verschiedene Möglichkeiten, interne Turniere zu veranstalten, hier die 
   * `Team-Turnier`: Ein Arenaturnier, bei dem nur Teammitglieder mitmachen dürfen. Das Turnier läuft eine bestimmte Zeit, und wenn man eine Partie beendet hat, kann man sofort die nächste starten.
     * Einstellungen: Name, Variante, Bedenkzeit + Inkrement, Dauer, Startzeit, optional Anfangsposition (Thementurnier)
   * `Turnier nach Schweizer System`: Alle spielen in Runden, und warten nach dem Ende ihrer Partie, bis die nächste Runde startet.
-    * Einstellungen: Name, Anzahl der Runden, gewertet/ungewertet, Variante, Bedenkzeit, Anfangsposition, Zeit zwischen Runden, Turnier-Startzeit, und einige weitere Parameter.
+    * Einstellungen: Name, Anzahl der Runden, gewertet/ungewertet, Variante, Bedenkzeit, Anfangsposition, Zeit zwischen Runden, Turnier-Startzeit und einige weitere Parameter.
 * Ausgehend von der Seite `Spielen > Arena-Turniere`
   * Button `Neues Turnier erstellen`
   * Parameter wie oben, über `Erweiterte Einstellungen` kann man auswählen, dass `Nur Teammitglieder` (unter Auswahl des Teams) teilnehmen können.
@@ -264,10 +264,10 @@ Lichess bietet noch viele weitere Möglichkeiten, wir haben im Online-Training v
 * `Aufgaben > Aufgabenübersicht`: Hier kann der Schüler sehen, in welchen Bereichen er sich verbessern kann.
 * `Aufgaben > Puzzle Streak`: Löse schwieriger werdende Aufgaben und baue eine Erfolgsserie auf. Es gibt keine Uhr, also nimm dir Zeit.
 * `Aufgaben > Puzzle Storm`: Aufgaben nach Geschwindigkeit lösen.
-* `Aufgaben > Puzzle Racer`: Das funktioniert online sehr gut, und es gibt auch die Variante, das nur unter den Schülern zu spielen. Ein Puzzle-Racer wird erstellt, der Link geshared, man wartet auf die Teilnehmer, und startet dann das Rennen. Jeder löst dieselben Aufgaben, bei einer gültigen Lösung fährt das Auto wieder ein Stück.
+* `Aufgaben > Puzzle Racer`: Das funktioniert online sehr gut, und es gibt auch die Variante, das nur unter den Schülern zu spielen. Ein Puzzle-Racer wird erstellt, der Link geshart, man wartet auf die Teilnehmer, und startet dann das Rennen. Jeder löst dieselben Aufgaben, bei einer gültigen Lösung fährt das Auto wieder ein Stück.
 * `Lernen > Grundlagen`: Der Schüler kann eigenständig vordefinierte Themen durchnehmen. Es handelt sich dabei um öffentliche Studien, zum Selbstlernen. Siehe [dieses Kapitel](#studien-für-übungen), wie man das selbst erstellen kann.
 * `Lernen > Trainieren`: Schachmatt-Übungen, Standard-Taktiken, Bauern- und Turmendspiele. Sehr gut zum Selbststudium geeignet, aber weniger fúr den Unterricht.
 * `Lernen > Koordinaten`: Das haben wir im Unterricht vor Ort schon gezeigt, mit Beamer und Leinwand. Das trainiert die Erkennung der Felder.
 * `Lernen > Studien`: Siehe die anderen Kapitel.
 
-Der Puzzle-Racer funktioniert am Besten, einige andere Möglichkeiten hatten wir versucht, aber auch wieder verworfen.
+Der Puzzle-Racer funktioniert am besten, einige andere Möglichkeiten hatten wir versucht, aber auch wieder verworfen.
