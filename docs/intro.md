@@ -6,6 +6,7 @@ title: Workshop am 15.04.23
 
 Diese Datei enthält die Übersicht über den Workshop, der am 15. April 2023 mit dem Thema "Online-Training mit Lichess und Discord" durchgeführt werden wird. Teilnehmer haben damit später noch die Möglichkeit, auf die Workshop-Inhalte zuzugreifen.
 
+* [Für die Teilnehmer](#für-die-teilnehmer)
 * [Übersicht Lichess und Discord](#übersicht-lichess-und-discord)
 	* [Übersicht Lichess](#übersicht-lichess)
 		* [Aufruf von Lichess](#aufruf-von-lichess)
@@ -29,6 +30,17 @@ Im Workshop werden in den 3 Unterrichtsstunden die folgenden Blöcke gemacht wer
 1. Übersicht, Rundgang durch alle Tools, Konzepte.
 2. Training mit Lichess und Discord, Teilnehmer erfahren selbst, wie ein Training abläuft.
 3. Übungen, wie Training vorbereitet und durchgeführt wird.
+
+## Für die Teilnehmer
+
+Teilnehmer des Workshops sollten folgende Schritte vorab durchgeführt haben:
+
+* Registrierung bei Lichess. Siehe das entsprechende [Kapitel hier](lichess.md#registrierung). Eine Anmeldung bei Lichess ist zwingend Voraussetzung für eine Teilnahme am Workshop. Einige Übungen sind erst möglich, wenn man bei Lichess registriert und angemeldet ist.
+* Registrierung bei Discord. Siehe [Aufruf und Anmeldung bei Discord](./discord.md#aufruf-und-anmeldung). Wenn das nicht durchgeführt wurde, dann kann der Workshop trotzdem durchgeführt werden, Übungen mit Discord sind dann eben nicht möglich.
+* Prüfen Sie, dass ihre Internetverbindung ausreichend ist, und die folgenden Voraussetzungen erfüllt sind:
+  * (zwingend) Headset mit Mikrofon, alternativ ein separates Mikrofon.
+  * (optional) Kamera, entweder im Rechner eingebaut, oder separat.
+* Machen Sie sich mit dem An-/Abschalten von Kamera, Lautsprecher und Mikrofon vertraut, um das bei Bedarf eigentständig durchführen zu können.
 
 ## Übersicht Lichess und Discord
 
