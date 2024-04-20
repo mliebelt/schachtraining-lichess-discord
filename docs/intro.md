@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Workshop am 15.04.23
+title: Workshop am 11.05.2024
 ---
 # Workshop "Online-Training mit Lichess und Discord"
 
