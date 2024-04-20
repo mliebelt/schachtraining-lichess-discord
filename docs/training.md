@@ -93,6 +93,8 @@ Hier noch einige Anmerkungen zur Nutzung der Studie dabei:
 
 **Ziel**: Jeder Schüler sollte die Übungen absolvieren können, und am Ende eine Vorstellung haben, ob er erfolgreich war, d.h. alles verstanden hat, oder ob er noch Probleme hat.
 
+(Es gibt seit 2023 hier vom Autor erstelltes [Material zum Selbststudium](https://schach-selbsttraining.netlify.app/), das deutlich umfangreicher ist. Dazu gibt es einen eigenen Kurs.)
+
 ### Erarbeiten der Übungen
 
 Hier können ebenfalls Studien verwendet werden, um geführte Übungen durchführen zu können. Die dazu notwendigen Einstellungen sind (gegenüber den Einstellungen, die man beim Training hat):
