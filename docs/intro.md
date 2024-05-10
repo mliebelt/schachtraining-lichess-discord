@@ -103,7 +103,7 @@ Wenn man Online-Unterricht geben möchte, dann ist die Infrastruktur (Rechner, I
 
 ## Installation Software für Lichess und Discord
 
-Für Lichess benötigt man keine Installation, Lichess kann am besten direkt im Browser verwendet werden. Es ist sogar so, dass Lichess im Browser zu jedem Zeitpunkt aktueller ist, und mehr Features bietet. Die Apps, die fÜr das Handy bzw. Tablet verfügbar sind, sind gut, wenn man online spielen möchte, aber für das Training oft nicht geeignet. Wer hat, kann gerne während des Workshops prüfen, ob eine Nutzung mit Tablet (als Teilnehmer und/oder Trainer) genau so gut ist.
+Für Lichess benötigt man keine Installation, Lichess kann am besten direkt im Browser verwendet werden. Es ist sogar so, dass Lichess im Browser zu jedem Zeitpunkt aktueller ist, und mehr Features bietet. Die Apps, die für das Handy bzw. Tablet verfügbar sind, sind gut, wenn man online spielen möchte, aber für das Training oft nicht geeignet. Wer hat, kann gerne während des Workshops prüfen, ob eine Nutzung mit Tablet (als Teilnehmer und/oder Trainer) genau so gut ist.
 
 Discord ist ebenfalls kostenfrei, die Anwendung Discord erleichtert es für die Schachtraining-Teilnehmer meist, da Lichess == Browser, und Discord == Anwendung ist. Bei Discord ist man auf jeden Fall beim Start der Anwendung schon angemeldet, was im Browser nicht immer der Fall sein muss.
 
