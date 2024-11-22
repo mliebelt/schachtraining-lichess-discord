@@ -4,7 +4,7 @@ title: Workshop am 22.11.24
 ---
 # Workshop "Online-Training mit Lichess und Discord"
 
-Diese Datei enthält die Übersicht über den Workshop, der am 11. Mai 2024 mit dem Thema "Online-Training mit Lichess und Discord" durchgeführt werden wird. Teilnehmer haben damit später noch die Möglichkeit, auf die Workshop-Inhalte zuzugreifen.
+Diese Datei enthält die Übersicht über den Workshop, der am 22. November 2024 mit dem Thema "Online-Training mit Lichess und Discord" durchgeführt werden wird. Teilnehmer haben damit später noch die Möglichkeit, auf die Workshop-Inhalte zuzugreifen. Der Workshop findet vor Ort statt, und ist deshalb ein wenig anders strukturiert.
 
 * [Für die Teilnehmer](#für-die-teilnehmer)
 * [Übersicht Lichess und Discord](#übersicht-lichess-und-discord)
