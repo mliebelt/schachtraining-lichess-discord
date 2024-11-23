@@ -95,21 +95,44 @@ Hier noch einige Anmerkungen zur Nutzung der Studie dabei:
 
 (Es gibt seit 2023 hier vom Autor erstelltes [Material zum Selbststudium](https://schach-selbsttraining.netlify.app/), das deutlich umfangreicher ist. Dazu gibt es einen eigenen Kurs.)
 
-### Erarbeiten der Übungen
+Es werden hier 2 Varianten gezeigt, die je nach Zweck unterschiedlich gut geeignet sind:
+
+* Interaktive Übung: wenige Züge, eindeutig, zusätzliche Hinweise des Lehrers hilfreich.
+* Spiele gegen den Computer: freies Spiel, Ziel ist der Gewinn (Bauern durchbringen, Matt), viele Möglichkeiten, als interaktive Übung schwer abbildbar.
+
+### Erarbeiten der Übungen: Interaktive Übung
 
 Hier können ebenfalls Studien verwendet werden, um geführte Übungen durchführen zu können. Die dazu notwendigen Einstellungen sind (gegenüber den Einstellungen, die man beim Training hat):
 
 1. Bestehende Studie verwenden, oder neue erstellen. Der Name der Studie sollte klar auf den Zweck hindeuten, gegebenenfalls kann man den Tag "Übung" vergeben.
 2. Sync der Studie muss deaktiviert sein, damit die Schüler die Übungen eigenständig und in ihrem Tempo durchgehen können.
-3. Bei jedem Kapitel angeben: interaktive Übungen.
-4. Die Züge von der Ausgangsstellung spielen, bei Bedarf zusätzlich mit Kommentaren oder Varianten unterstützen.
+3. Bei jedem Kapitel angeben: "Interaktive Übung". Siehe auch die Variante mit "Übe mit dem Computer".
+4. Die Züge von der Ausgangsstellung spielen, bei Bedarf zusätzlich mit Kommentaren oder Varianten unterstützen. Diese Kommentare werden dem Schüler als Hinweis angezeigt.
 
 Siehe die Studie [Übungen zum Schäfermatt](https://lichess.org/study/RDKUJ6nv) zum Ausprobieren.
 
-### Durchgehen der Übungen
+### Durchgehen der Übungen: Interaktive Übung
 
 1. Die Schüler bekommen über Discord den Link zur Studie zur Verfügung gestellt. Man verwendet dazu am besten "URL des aktuellen Kapitels".
 2. Jeder Schüler spielt nun im eigenen Tempo die Übungen durch. Der Lehrer bekommt kein Feedback zum Ergebnis der Schüler. Jeder Schüler kann beliebig oft Züge probieren, bis er die richtigen gefunden hat.
+3. Ich frage die Schüler dann nach angemessener Zeit, wie weit sie gekommen sind, damit wir dann zusammen weiter trainieren können.
+
+### Erarbeiten der Übungen: Spiele gegen den Computer
+
+Hier können ebenfalls Studien verwendet werden, um geführte Übungen durchführen zu können. Die dazu notwendigen Einstellungen sind (gegenüber den Einstellungen, die man beim Training hat):
+
+1. Bestehende Studie verwenden, oder neue erstellen. Der Name der Studie sollte klar auf den Zweck hindeuten, gegebenenfalls kann man den Tag "Übung" vergeben.
+2. Sync der Studie muss deaktiviert sein, damit die Schüler die Übungen eigenständig und in ihrem Tempo durchgehen können.
+3. Bei jedem Kapitel angeben: Übe mit dem Computer. Siehe auch die Variante mit "Interaktive Übung".
+4. Es gibt hier nur die Ausgangsstellung, da die Schüler ja selbständig gegen den Computer spielen sollen. Eine Vorgabe der Züge ist nicht hilfreich.
+
+Siehe die Studie [Endspiel Übungen](https://lichess.org/study/bYnf3dJ0) zum Ausprobieren.
+
+### Durchgehen der Übungen: Spiele gegen den Computer
+
+1. Die Schüler bekommen über Discord den Link zur Studie zur Verfügung gestellt. Man verwendet dazu am besten "URL des aktuellen Kapitels".
+2. Die Schüler müssen wissen, dass der Button "Spiele gegen Computer" an sein muss. ![Spiele gegen Computer](bilder/lichess-studie-spiele-computer.jpg)
+2. Jeder Schüler spielt nun im eigenen Tempo die Übungen durch. Der Lehrer bekommt kein Feedback zum Ergebnis der Schüler. Jeder Schüler kann beliebig oft Züge probieren, bis er die richtigen gefunden hat. Die Schüler müssen wissen, wann sie die Übung beenden müssen, und zur nächsten Übung gehen sollen.
 3. Ich frage die Schüler dann nach angemessener Zeit, wie weit sie gekommen sind, damit wir dann zusammen weiter trainieren können.
 
 ## Partieanalysen
@@ -334,7 +357,7 @@ Der Puzzle Racer ist eine nette Auflockerung, wenn der Wettbewerb etwas in den H
 
 So geht es:
 
-* Der Lehrer stellt über `Aufgaben > Puzzle Racer > Spiele mit Freunden` ein Rennen ein. 
+* Der Lehrer stellt über `Aufgaben > Puzzle Racer > Spiele mit Freunden` ein Rennen ein.
 * Im Ergebnis erhält er eine URL, die dann über Discord den Schülern mitgeteilt wird.
 * Sobald alle, die mitmachen wollen, teilgenommen haben, startet der Trainer das Rennen.
 * Nach der voreingestellten Zeit (90 Sekunden) ist das Rennen automatisch zu Ende.
@@ -347,8 +370,8 @@ Eine einfache Übung, die online natürlich viel besser geht. Hier blendet der C
 
 So geht es:
 
-* `Lernen > Koordinaten` auswählen. 
-* Man kann dann bestimmen, ob das Brett zufällig gedreht, aus weißer Sicht oder aus schwarzer Sicht dargestellt wird.. 
+* `Lernen > Koordinaten` auswählen.
+* Man kann dann bestimmen, ob das Brett zufällig gedreht, aus weißer Sicht oder aus schwarzer Sicht dargestellt wird..
 * Über den Button "Training beginnen" beginnt das Training.
 
 ### Lernen trainieren
