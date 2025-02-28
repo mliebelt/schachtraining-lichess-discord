@@ -1,45 +1,45 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Schachunterricht mit Lichess und Discord online',
-  tagline: 'Schach online ist coooool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.ico',
+  title: "Schachunterricht mit Lichess und Discord online",
+  tagline: "Schach online ist coooool",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/",
+  onBrokenLinks: "log",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/logo.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mliebelt@github', // Usually your GitHub org/user name.
-  projectName: 'schachtraining-lichess-discord', // Usually your repo name.
+  organizationName: "mliebelt@github", // Usually your GitHub org/user name.
+  projectName: "schachtraining-lichess-discord", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'de',
-    locales: ['de'],
+    defaultLocale: "de",
+    locales: ["de"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
         },
         blog: {
           showReadingTime: true,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -55,57 +55,57 @@ const config = {
       //   },
       // },
       navbar: {
-        title: 'Übersicht',
+        title: "Übersicht",
         logo: {
-          alt: 'Workshop Logo',
-          src: 'img/logo.ico',
+          alt: "Workshop Logo",
+          src: "img/logo.ico",
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Workshop',
+            type: "doc",
+            docId: "intro",
+            position: "left",
+            label: "Workshop",
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/mliebelt/schachtraining-lichess-discord',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/mliebelt/schachtraining-lichess-discord",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Docs",
             items: [
               {
-                label: 'Workshop',
-                to: '/docs/intro',
+                label: "Workshop",
+                to: "/docs/intro",
               },
             ],
           },
           {
-            title: 'Links',
+            title: "Links",
             items: [
               {
-                label: 'Lichess',
-                href: 'https://lichess.org',
+                label: "Lichess",
+                href: "https://lichess.org",
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com',
+                label: "Discord",
+                href: "https://discordapp.com",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/mliebelt/schachtraining-lichess-discord',
+                label: "GitHub",
+                href: "https://github.com/mliebelt/schachtraining-lichess-discord",
               },
             ],
           },
