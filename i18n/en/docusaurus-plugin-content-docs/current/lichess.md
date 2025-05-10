@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 id: lichess
-title: Lichess Referenz
+title: Lichess Reference
 ---
 # Lichess
 

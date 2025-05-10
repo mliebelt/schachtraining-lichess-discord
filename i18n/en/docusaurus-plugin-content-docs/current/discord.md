@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 id: discord
-title: Discord Referenz
+title: Discord Reference
 ---
 # Discord
 

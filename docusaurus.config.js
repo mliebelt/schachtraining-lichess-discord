@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "de",
-    locales: ["de"],
+    locales: ["de", "en"],
   },
 
   presets: [
@@ -55,7 +55,7 @@ const config = {
       //   },
       // },
       navbar: {
-        title: "Übersicht",
+        title: "navbar.title",
         logo: {
           alt: "Workshop Logo",
           src: "img/logo.ico",
@@ -71,6 +71,10 @@ const config = {
           {
             href: "https://github.com/mliebelt/schachtraining-lichess-discord",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            type: "localeDropdown",
             position: "right",
           },
         ],
