@@ -378,7 +378,7 @@ So geht es:
 
 ### Lernen trainieren
 
-Hier stellt Lichess eine Vielzahl von vorbereiteten Übungen bereit, vergleichbar zu [Selbststudium > Durchgehen von Übungen](#selbststudium-durchgehen-von-uebungen). Der Unterschied hier ist, dass die Übungen zentral bereitgestellt werden, und ein Fortschritt durch Lichess getrackt wird. Man sieht also, welche Übungen man schon in der Vergangenheit (erfolgreich) gemacht hat, und welche noch offen sind.
+Hier stellt Lichess eine Vielzahl von vorbereiteten Übungen bereit, vergleichbar zu [Selbststudium > Durchgehen von Übungen](#durchgehen-der-übungen-interaktive-übung). Der Unterschied hier ist, dass die Übungen zentral bereitgestellt werden, und ein Fortschritt durch Lichess getrackt wird. Man sieht also, welche Übungen man schon in der Vergangenheit (erfolgreich) gemacht hat, und welche noch offen sind.
 
 So geht es:
 
