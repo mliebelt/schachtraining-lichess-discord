@@ -25,7 +25,7 @@ Diese Datei enthält die Übersicht über den Workshop, der am 28. November 2025
 Im Workshop werden in den 3 Unterrichtsstunden die folgenden Blöcke gemacht werden:
 
 1. Übersicht, Rundgang durch alle Tools, Konzepte.
-2. Training mit Lichess und Discord, Teilnehmer erfahren selbst, wie ein Training abläuft.
+2. Training mit Lichess und Jitsi, Teilnehmer erfahren selbst, wie ein Training abläuft.
 3. Übungen, wie Training vorbereitet und durchgeführt wird.
 
 ## Für die Teilnehmer
@@ -157,6 +157,6 @@ Das hier ist nur ein erster Hinweis, was wir alles schon probiert hatten:
 * Es ist gut, eine schriftliche Anleitung zur Verfügung zu haben. Dort sollten die wesentlichen Schritte beschrieben sein, die man dann systematisch testen kann.
 * Lichess funktioniert eigentlich immer. Das Einzige, was hier schiefgehen kann, ist, dass die Kinder sich nicht mehr an User-ID (kann der Lehrer wissen) oder Passwörter (sollte der Lehrer **nicht** wissen) erinnern. Man kann sich bei der Anmeldung in Lichess, wenn man sich an das Passwort nicht mehr erinnert, sich einen Änderungslink an seine E-Mail-Adresse schicken (an die man sich hoffentlich noch erinnert).
 * Jitsi ist hier etwas komplexer. Folgende Möglichkeiten:
-  * Jemand, der Schwierigkeiten mit Jitsi hat, kommt eventuell gar nicht rein, oder Mikrofon und / oder Lautsprecher funktionieren nicht. Hier hat es sich als gut erwiesen, wenn man zuerst telefoniert, und erst wenn man die Probleme gelöst hat, dann in Discord einsteigt.
+  * Jemand, der Schwierigkeiten mit Jitsi hat, kommt eventuell gar nicht rein, oder Mikrofon und / oder Lautsprecher funktionieren nicht. Hier hat es sich als gut erwiesen, wenn man zuerst telefoniert, und erst wenn man die Probleme gelöst hat, dann in Jitsi einsteigt.
   * Wichtig ist, dass der Benutzer weiß, was er verwendet oder verwenden möchte: Externes Mikrofon, intern eingebautes, ein Headset, Ear-Pods, ... Manchmal merkt man erst hier, dass der Benutzer gar kein Mikrofon hat.
   * In der Anleitung muss beschrieben sein, wie man selbst seinen Ton testen kann. Damit findet man mindestens heraus, ob das Mikrofon funktioniert, und der Ton dann richtig ankommt.
