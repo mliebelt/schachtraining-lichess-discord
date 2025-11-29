@@ -165,6 +165,7 @@ Das hier ist nur ein erster Hinweis, was wir alles schon probiert hatten:
 
 Wir hatten gestern den Kurs vor Ort, und haben nur Teile des möglichen Materials durchgenommen. Hier die wichtigsten Inhalte, samt den Links auf die Ressourcen:
 
+* [Studie mit Beispielen](https://lichess.org/study/GCFSwWx0) die wir während des Kurses benutzt haben. 
 * [Schachtraining mit Lichess](https://schachtraining-lichess-discord.netlify.app/) ist das gesamte Material auf dem Internet
 * [Workshop am 28.11.25](#f%C3%BCr-die-teilnehmer) der aktuelle Einstieg in den Kurs, kurz gezeigt (dieses Kapitel).
 * [2. Block im Training](#nutzung-von-lichess-im-training) dort findet man die wichtigsten
