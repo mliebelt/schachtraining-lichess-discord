@@ -33,7 +33,7 @@ Im Workshop werden in den 3 Unterrichtsstunden die folgenden Blöcke gemacht wer
 Teilnehmer des Workshops sollten folgende Schritte vorab durchgeführt haben:
 
 * Registrierung bei Lichess. Siehe das entsprechende [Kapitel hier](/docs/lichess.md#registrierung). Eine Anmeldung bei Lichess ist zwingend Voraussetzung für eine Teilnahme am Workshop. Einige Übungen sind erst möglich, wenn man bei Lichess registriert und angemeldet ist. (Sonst schaut man eben nur zu, kann dann höchstens als anonymer Teilnehmer teilnehmen.)
-* Wir nutzen aktuell Jitsi (statt früher Discord), von daher hat sich der Teil komplett geändert. Bei Jitsi ist keine Anmeldung notwendig, man kann einfach mit einem Link teilnehmen.
+* Wir nutzen aktuell Jitsi (statt früher Discord), von daher hat sich der Teil komplett geändert. Bei Jitsi ist keine Anmeldung notwendig, man kann einfach mit einem Link teilnehmen. Alle Details zu Jitsi und weiteren Kommunikationstools findest du im [Kommunikation-Kapitel](/docs/communication/jitsi).
 * Wir schauen dann im Workshop selbst, was von einer Anmeldung beeinflusst wird. Da der Workshop vor Ort stattfindet sind die Bedingungen ein wenig anders. Wir werden auf jeden Fall das Mikrofon bei Jitsi ausschalten, um den Workshop nicht zu stören.
 
 ## Übersicht Lichess und Jitsi
@@ -64,7 +64,7 @@ Alles Weitere zu Lichess findet man dann im [Referenzteil Lichess](/docs/lichess
 
 ### Aufruf von Jitsi
 
-Ihr bekommt zu Beginn des Workshops vom Trainer den Link zu einer offenen Jitsi-Session. Diesen müsst ihr im Browser eintippen. Wir nutzen in Jitsi im wesentlichen nur den Chat, damit die Teilnehmer einfach an die Links der Lichess-Studien (und anderen Dinge) kommen. Wir können mal kurz demonstrieren, dass Jitsi auch weitere Möglichkeiten hat, aber diese spielen im Workshop nicht eine Rolle.
+Ihr bekommt zu Beginn des Workshops vom Trainer den Link zu einer offenen Jitsi-Session. Diesen müsst ihr im Browser eintippen. Alle Details zur Nutzung von Jitsi findet ihr im [Jitsi-Kapitel](/docs/communication/jitsi).
 
 ### Weitere Bestandteile
 
@@ -84,11 +84,7 @@ Jitsi ist ebenfalls eine Anwendung im Browser. Es gibt auf den verschiedenen Pla
 
 ## Nutzung von Jitsi im Training
 
-Jitsi wird im Training vor allem für zwei Aspekte eingesetzt, in letzter Zeit haben wir aber auch andere Sachen ausprobiert:
-
-* Das Teilen von Links zu Lichess-Inhalten. D.h. jeder Trainingsteilnehmer kann über den Textkanal Textnachrichten bekommen, und per Klick auf einen Link den Einstieg zu Lichess bekommen. Das ist die am häufigsten genutzte Funktion, damit alleine kann man schon ein Training durchführen.
-* Jitsi unterstützt Leute beim sich unterhalten. Sollte man mehrere Gruppen parallel brauchen, muss man mehrere Jitsi-Sessions starten.
-* Zudem kann man mit Jitsi auch seinen Bildschirm übertragen, das in manchen Trainingsszenarien genau das Richtige ist.
+Jitsi wird im Training vor allem für das Teilen von Links und die Audio-Kommunikation eingesetzt. Alle Details zur Nutzung von Jitsi im Training findest du im [Jitsi-Kapitel](/docs/communication/jitsi).
 
 ## Nutzung von Lichess im Training
 
@@ -156,10 +152,7 @@ Das hier ist nur ein erster Hinweis, was wir alles schon probiert hatten:
 
 * Es ist gut, eine schriftliche Anleitung zur Verfügung zu haben. Dort sollten die wesentlichen Schritte beschrieben sein, die man dann systematisch testen kann.
 * Lichess funktioniert eigentlich immer. Das Einzige, was hier schiefgehen kann, ist, dass die Kinder sich nicht mehr an User-ID (kann der Lehrer wissen) oder Passwörter (sollte der Lehrer **nicht** wissen) erinnern. Man kann sich bei der Anmeldung in Lichess, wenn man sich an das Passwort nicht mehr erinnert, sich einen Änderungslink an seine E-Mail-Adresse schicken (an die man sich hoffentlich noch erinnert).
-* Jitsi ist hier etwas komplexer. Folgende Möglichkeiten:
-  * Jemand, der Schwierigkeiten mit Jitsi hat, kommt eventuell gar nicht rein, oder Mikrofon und / oder Lautsprecher funktionieren nicht. Hier hat es sich als gut erwiesen, wenn man zuerst telefoniert, und erst wenn man die Probleme gelöst hat, dann in Jitsi einsteigt.
-  * Wichtig ist, dass der Benutzer weiß, was er verwendet oder verwenden möchte: Externes Mikrofon, intern eingebautes, ein Headset, Ear-Pods, ... Manchmal merkt man erst hier, dass der Benutzer gar kein Mikrofon hat.
-  * In der Anleitung muss beschrieben sein, wie man selbst seinen Ton testen kann. Damit findet man mindestens heraus, ob das Mikrofon funktioniert, und der Ton dann richtig ankommt.
+* Für Jitsi (und andere Kommunikationstools) siehe das [Troubleshooting im Jitsi-Kapitel](/docs/communication/jitsi#einstellungen-und-troubleshooting).
   
 ## Zusammenfassung nach dem Kurs
 

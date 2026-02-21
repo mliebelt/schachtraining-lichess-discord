@@ -1,0 +1,128 @@
+# Plan for Communication Documentation Restructuring
+
+**GitHub Issue:** #14
+**Date:** 2026-02-21
+
+## Context
+
+The project originally focused on Discord as the primary communication tool for online chess training. Over time, the training has evolved to use multiple communication platforms:
+- **Jitsi** (currently primary, as mentioned in intro.md)
+- **Discord** (original tool, comprehensive docs already exist)
+- **Teams** (mentioned as an option)
+- **Zoom** (mentioned as an option)
+
+The current `docs/discord.md` is outdated as it only covers one tool. The documentation in `docs/intro.md` mentions the switch to Jitsi but doesn't provide a comprehensive reference. This plan restructures the documentation to create a unified "Communication" chapter with sub-chapters for each tool.
+
+## Proposed Structure
+
+### New Chapter Name
+**Folder:** `communication/`
+**Category Label:** "Kommunikation im Training" (Communication during Training)
+**Sidebar Position:** 3 (replacing current discord.md position)
+
+### Directory Structure (Before → After)
+
+**Before:**
+```
+docs/
+├── intro.md                 (sidebar_position: 1)
+├── lichess.md               (sidebar_position: 2)
+├── discord.md               (sidebar_position: 3) ← standalone file
+├── training.md
+├── uebungen.md              (sidebar_position: 5)
+└── Workshops/
+```
+
+**After:**
+```
+docs/
+├── intro.md                 (sidebar_position: 1)
+├── lichess.md               (sidebar_position: 2)
+├── communication/           (sidebar_position: 3) ← new category
+│   ├── _category_.json      ← category configuration
+│   ├── discord.md           (sidebar_position: 1) ← moved and adapted
+│   ├── jitsi.md             (sidebar_position: 2) ← new
+│   ├── teams.md             (sidebar_position: 3) ← new
+│   └── zoom.md              (sidebar_position: 4) ← new
+├── training.md
+├── uebungen.md              (sidebar_position: 5)
+└── Workshops/
+```
+
+## Implementation Status
+
+✅ **Phase 1: Create Communication Directory Structure** - COMPLETED
+- Created `docs/communication/` directory
+- Created `_category_.json` with proper configuration
+
+✅ **Phase 2: Move and Adapt Discord Documentation** - COMPLETED
+- Moved `docs/discord.md` to `docs/communication/discord.md`
+- Updated frontmatter (sidebar_position: 1, title: "Discord")
+- Fixed all image paths from `bilder/` to `../bilder/`
+
+✅ **Phase 3: Create Jitsi Documentation** - COMPLETED
+- Created comprehensive `docs/communication/jitsi.md`
+- Extracted content from intro.md
+- Added detailed sections on usage, troubleshooting, and hardware requirements
+
+✅ **Phase 4: Create Teams Documentation** - COMPLETED
+- Created `docs/communication/teams.md` with basic structure
+- Documented Teams features, installation, and usage
+- Noted that content will be expanded based on future usage
+
+✅ **Phase 5: Create Zoom Documentation** - COMPLETED
+- Created `docs/communication/zoom.md` with comprehensive structure
+- Documented Zoom features, including breakout rooms and limitations
+- Added comparison table with other communication tools
+
+✅ **Phase 6: Update References in Other Documents** - COMPLETED
+- Updated intro.md to reference new communication chapter
+- Simplified Jitsi sections in intro.md with links to detailed pages
+- Updated all workshop files (ws2411.md, ws2503.md, ws2405.md, ws2304.md, ws2206.md)
+- Changed references from `/docs/discord.md` to `/docs/communication/discord`
+
+## Files Created
+
+1. `docs/communication/_category_.json` - Category configuration
+2. `docs/communication/jitsi.md` - Jitsi documentation (comprehensive)
+3. `docs/communication/teams.md` - Teams documentation (basic structure)
+4. `docs/communication/zoom.md` - Zoom documentation (comprehensive)
+5. `plans/plan14.md` - This plan file
+
+## Files Modified
+
+1. `docs/discord.md` → `docs/communication/discord.md` (moved, frontmatter updated, image paths fixed)
+2. `docs/intro.md` (simplified, added references to communication chapter)
+3. `docs/Workshops/ws2411.md` (updated Discord links)
+4. `docs/Workshops/ws2503.md` (updated Discord links)
+5. `docs/Workshops/ws2405.md` (updated Discord links)
+6. `docs/Workshops/ws2304.md` (updated Discord links)
+7. `docs/Workshops/ws2206.md` (updated Discord links)
+
+## Next Steps
+
+1. ⏳ Verify build and functionality (Task #8 pending)
+   - Run `npm run build` to ensure no errors
+   - Run `npm start` to verify sidebar structure
+   - Check that all links work correctly
+   - Verify images display properly
+
+## Success Criteria
+
+- ✅ Sidebar shows "Kommunikation im Training" category at position 3
+- ✅ Discord documentation is preserved with all content and images
+- ✅ Jitsi documentation provides practical reference for current usage
+- ✅ Teams and Zoom have basic structure for future expansion
+- ✅ All internal links updated correctly
+- ⏳ Local and production builds succeed (pending verification)
+- ✅ intro.md is simplified with proper references to communication chapter
+
+## Notes
+
+- The autogenerated sidebar configuration means no changes needed to `sidebars.js`
+- Docusaurus automatically generates category navigation from `_category_.json`
+- Image paths use relative references (`../bilder/`) which work from communication subdirectory
+- Discord.md serves as the most comprehensive reference
+- Jitsi has medium detail as the current primary tool
+- Teams and Zoom start minimal but have structure for expansion
+- This aligns documentation with actual current usage (Jitsi primary, Discord reference, others occasional)

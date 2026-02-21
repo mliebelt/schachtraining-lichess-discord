@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-title: Discord Referenz
+sidebar_position: 1
+title: Discord
 ---
 # Discord
 
@@ -53,19 +53,19 @@ Mehr fällt mir zum Thema nicht ein.
 
 ### Anwendung Discord
 
-![Discord Anwendung Grundstruktur](bilder/menu-discord-anwendung-top.png)
+![Discord Anwendung Grundstruktur](../bilder/menu-discord-anwendung-top.png)
 
 Unten
 
-![Discord Anwendung Benutzer](bilder/menu-discord-anwendung-bottom.png)
+![Discord Anwendung Benutzer](../bilder/menu-discord-anwendung-bottom.png)
 
 ### Browser Discord
 
-![Discord im Browser Grundstruktur](bilder/menu-discord-browser-top.png)
+![Discord im Browser Grundstruktur](../bilder/menu-discord-browser-top.png)
 
 Unten
 
-![Discord im Browser Benutzer](bilder/menu-discord-browser-bottom.png)
+![Discord im Browser Benutzer](../bilder/menu-discord-browser-bottom.png)
 
 ### Auswahl Server
 
@@ -76,7 +76,7 @@ Wenn man einen Server ausgewählt hat, dann wird die Struktur wesentlich durch d
   * Sprachkanäle unten (Voice Channels): Diese entsprechen den Räumen in Zoom, d.h. wenn man auf einen Sprachkanal klickt, und es befinden sich Personen im Sprachkanal, dann kann man sich mit den Personen unterhalten.
 * Rechte Spalte: Dort sieht man, wer zur Zeit online ist, auch wenn die Personen aktuell nicht im Discord-Server aktiv sind. Natürlich nur die Personen, die man persönlich kennt.
 
-![Discord in der Anwendung nach Auswahl des Servers](bilder/menu-discord-server.png)
+![Discord in der Anwendung nach Auswahl des Servers](../bilder/menu-discord-server.png)
 
 ## Nutzung von Textkanälen
 
@@ -93,9 +93,9 @@ Neuerdings hat auch der Sprachkanal einen Chat, den haben wir noch nie verwendet
 
 Im Sprachkanal kann man sehen, ob Teilnehmer verbunden sind, aktuell sprechen, usw. usf. Hier einige der wichtigsten Merkmale:
 
-* Hat ein Teilnehmer sein Mikrofon abgestellt, ist das in der Liste sichtbar. ![Discord Mikrofon aus](bilder/discord-mikro-aus.png)
-* Spricht ein Teilnehmer, dann ist um seinen Namen ein grüner Kreis. ![Discord Mikrofon aktiv](bilder/discord-mikro-aktiv.png)
-* Hat ein Teilnehmer auch die Ausgabe deaktiviert, dann hört er nichts mehr. ![Discord Mikrofon und Lautsprecher aus](bilder/discord-mikro-lautsprecher-aus.png)
+* Hat ein Teilnehmer sein Mikrofon abgestellt, ist das in der Liste sichtbar. ![Discord Mikrofon aus](../bilder/discord-mikro-aus.png)
+* Spricht ein Teilnehmer, dann ist um seinen Namen ein grüner Kreis. ![Discord Mikrofon aktiv](../bilder/discord-mikro-aktiv.png)
+* Hat ein Teilnehmer auch die Ausgabe deaktiviert, dann hört er nichts mehr. ![Discord Mikrofon und Lautsprecher aus](../bilder/discord-mikro-lautsprecher-aus.png)
 
 ## Weitere Eigenschaften von Discord
 
@@ -103,30 +103,30 @@ Discord kann auch verwendet werden in ähnlicher Form wie Zoom. Von Zeit zu Zeit
 
 Hier sieht man, wie es aussieht, wenn man die Kamera angeschaltet hat.
 
-![Discord mit Kameraübertragung](bilder/discord-kamera-aktiv.png)
+![Discord mit Kameraübertragung](../bilder/discord-kamera-aktiv.png)
 
 Wenn man den Bildschirm überträgt, funktioniert das so ähnlich.
 
-![Discord mit Bildschirmübertragung](bilder/discord-bildschirm-aktiv.png)
+![Discord mit Bildschirmübertragung](../bilder/discord-bildschirm-aktiv.png)
 
 Für einen Teilnehmer sieht das so aus.
 
 
-![Discord Bildschirmübertragung Teilnehmer](bilder/discord-bildschirm-aktiv-teilnehmer.png)
+![Discord Bildschirmübertragung Teilnehmer](../bilder/discord-bildschirm-aktiv-teilnehmer.png)
 
 Zum Anschalten muss man nur auf den Live-Knopf drücken, und anschließend im Dialog bestätigen.
 
-![Discord Bildschirmübertragung Teilnehmer starten](bilder/discord-bildschirm-aktiv-teilnehmer-anschalten.png)
+![Discord Bildschirmübertragung Teilnehmer starten](../bilder/discord-bildschirm-aktiv-teilnehmer-anschalten.png)
 
 Zum Beenden dann im Livebildschirm "Hörer auflegen" drücken.
 
-![Discord Bildschirmübertragung Teilnehmer beenden](bilder/discord-bildschirm-aktiv-teilnehmer-beenden.png)
+![Discord Bildschirmübertragung Teilnehmer beenden](../bilder/discord-bildschirm-aktiv-teilnehmer-beenden.png)
 
 ## Anlegen eines Servers
 
 Auch wenn man nicht ständig neue braucht, jemand muss es initial für die anderen tun.
 
-![Anlegen eines neuen Servers](bilder/neuer-server.png)
+![Anlegen eines neuen Servers](../bilder/neuer-server.png)
 
 Das Anlegen eines Servers ist trivial, man drückt den Knopf, beantwortet einige Fragen, fertig. Nachdem man den Server angelegt hat, muss man noch einige Dinge tun:
 
@@ -140,15 +140,15 @@ Es gibt verschiedene Möglichkeiten das zu tun. Wenn man die Leute (auf Discord)
 
 Drücken von "Server von XX" Dropdown
 
-![Start Leute einladen](bilder/start-leute-einladen.png) !
+![Start Leute einladen](../bilder/start-leute-einladen.png) !
 
 Auswahl aus dem Menü
 
-![Leute einladen](bilder/leute-einladen.png)
+![Leute einladen](../bilder/leute-einladen.png)
 
 Oder einfach den zentralen Einstieg
 
-![Leute einladen zentral](bilder/zentral-leute-einladen.png)
+![Leute einladen zentral](../bilder/zentral-leute-einladen.png)
 
 Am Ende kann man die Leute direkt anschreiben, oder sie per Einladungslink einladen.
 
