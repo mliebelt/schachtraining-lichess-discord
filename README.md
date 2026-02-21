@@ -1,8 +1,8 @@
 # Schachtraining mit Lichess und Discord
 
-Vorbereitung des Workshops zu "Online Training mit Lichess und Discord", der im Rahmen des Schachverbands Württemberg im Juni 2022 angeboten werden wird. Dies ist auch öffentlich [hier im Internet](https://schachtraining-lichess-discord.netlify.app/) veröffentlicht.
+Vorbereitung des Workshops zu "Online Training mit Lichess und Discord", der im Rahmen des Schachverbands Württemberg im Juni 2022 angeboten werden wird. Dies ist auch öffentlich [hier im Internet](https://schachtraining-lichess.netlify.app/) veröffentlicht.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b98a79ff-87d8-4b73-8049-352c094ad5c0/deploy-status)](https://app.netlify.com/sites/schachtraining-lichess-discord/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b98a79ff-87d8-4b73-8049-352c094ad5c0/deploy-status)](https://app.netlify.com/sites/schachtraining-lichess/deploys)
 
 ## Auf die Schnelle
 
